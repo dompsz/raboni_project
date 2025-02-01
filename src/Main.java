@@ -1,18 +1,8 @@
 import java.io.*;
 import java.nio.charset.StandardCharsets;
-import java.nio.file.*;
 import java.util.*;
-import java.util.stream.*;
-
-import java.io.*;
 import java.nio.charset.Charset;
-import java.nio.file.*;
-import java.util.*;
-
-import java.io.*;
-import java.nio.charset.*;
-import java.nio.file.*;
-import java.util.*;
+import java.util.stream.Collectors;
 
 class CSVReader {
     public static List<String[]> readCSV(String filePath) {
@@ -64,40 +54,51 @@ class MagazynRecord {
 
 public class Main {
     public static void main(String[] args) {
-        String pathDostawcy = "Dostawcy.csv";
+        Scanner scanner = new Scanner(System.in);
+
+        // Wybór pola sortowania
+        System.out.println("Wybierz pole do sortowania: 1 - NRKARTY, 2 - KOD, 3 - FIRMA");
+        int sortOption = scanner.nextInt();
+        scanner.nextLine(); // Usunięcie znaku nowej linii
+
+        // Wybór liczby rekordów
+        System.out.println("Ile rekordów wyświetlić?");
+        int recordLimit = scanner.nextInt();
+        scanner.nextLine();
+
         String pathMagazynp = "Magazynp.csv";
         String pathSlownik = "Slownik.csv";
 
-        List<String[]> dostawcy = CSVReader.readCSV(pathDostawcy);
         List<String[]> magazynp = CSVReader.readCSV(pathMagazynp);
         List<String[]> slownik = CSVReader.readCSV(pathSlownik);
 
-        // Mapowanie NR_ODPADU na opis
+        // Mapa NR_ODPADU -> OPIS
         Map<String, String> slownikMap = slownik.stream()
                 .collect(Collectors.toMap(row -> row[5], row -> row[4], (a, b) -> a));
 
-        // Tworzenie listy rekordów magazynowych
+        // Lista obiektów magazynowych
         List<MagazynRecord> magazynRecords = magazynp.stream()
                 .map(MagazynRecord::new)
                 .collect(Collectors.toList());
 
-        // Sortowanie po NRKARTY
-        magazynRecords.sort(Comparator.comparing(r -> r.nrKarty));
+        // Sortowanie na podstawie wyboru użytkownika
+        Comparator<MagazynRecord> comparator;
+        switch (sortOption) {
+            case 2 -> comparator = Comparator.comparing(r -> r.kod);
+            case 3 -> comparator = Comparator.comparing(r -> r.firma);
+            default -> comparator = Comparator.comparing(r -> r.nrKarty);
+        }
+        magazynRecords.sort(comparator);
 
-        // Wyświetlenie zestawienia
-        System.out.println("NRKARTY | DATA | KOD | MASA | FIRMA | OPIS");
-        magazynRecords.forEach(r -> System.out.printf("%s | %s | %s | %.2f Mg | %s | %s%n",
-                r.nrKarty, r.data, r.kod, r.masa, r.firma, slownikMap.getOrDefault(r.kod, "Brak opisu")));
+        // Nagłówek tabeli
+        System.out.printf("%-12s | %-10s | %-6s | %-8s | %-5s | %-50s%n",
+                "NRKARTY", "DATA", "KOD", "MASA", "FIRMA", "OPIS");
+        System.out.println("-------------------------------------------------------------------------------");
 
-        // Obliczenie sumy masy dla wybranego KODU i FIRMY
-        String wybranyKod = "130208";
-        String wybranaFirma = "KLIENT1";
-
-        double sumaMasa = magazynRecords.stream()
-                .filter(r -> r.kod.equals(wybranyKod) && r.firma.equals(wybranaFirma))
-                .mapToDouble(r -> r.masa)
-                .sum();
-
-        System.out.printf("Suma masy dla kodu %s i firmy %s: %.2f Mg%n", wybranyKod, wybranaFirma, sumaMasa);
+        // Wyświetlanie wybranej liczby rekordów
+        magazynRecords.stream().limit(recordLimit).forEach(r -> System.out.printf(
+                "%-12s | %-10s | %-6s | %-8.2f | %-5s | %-50s%n",
+                r.nrKarty, r.data, r.kod, r.masa, r.firma, slownikMap.getOrDefault(r.kod, "Brak opisu")
+        ));
     }
 }
