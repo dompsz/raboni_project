@@ -1,0 +1,1031 @@
+GR;PODGR;RODZ;TYP;OPIS;NR_ODPADU
+01;;;B;Odpady powstaj¹ce przy poszukiwaniu, wydobywaniu, fizycznej i chemicznej przeróbce rud oraz innych kopalin;1
+01;01;;B;Odpady z wydobywania kopalin;2
+01;01;01;B;Odpady z wydobywania rud metali (z wy³¹czeniem 01 01 80);3
+01;01;02;B;Odpady z wydobywania rud metali (z wy³¹czeniem 01 01 80);4
+01;01;80;B;Odpady skalne z górnictwa miedzi, cynku i o³owiu;5
+01;03;;B;Odpady z fizycznej i chemicznej przeróbki rud metali;6
+01;03;04;N;Odpady z przeróbki rud siarczkowych powoduj¹ce samoczynne zakwaszenie œrodowiska w czasie sk³adowania;7
+01;03;05;N;Inne odpady poprzeróbcze zawieraj¹ce substancje niebezpieczne (z wy³¹czeniem 01 03 80);8
+01;03;06;B;Inne odpady poprzeróbcze ni¿ wymienione w 01 03 04, 01 03 05, 01 03 80 i 01 03 81;9
+01;03;07;N;Inne odpady zawieraj¹ce substancje niebezpieczne z fizycznej i chemicznej przeróbki rud metali;10
+01;03;08;B;Odpady w postaci py³ów i proszków inne ni¿ wymienione w 01 03 07;11
+01;03;09;B;Czerwony szlam powstaj¹cy przy produkcji tlenku glinu inny ni¿ wymieniony w 01 03 07;12
+01;03;80;N;Odpady z flotacyjnego wzbogacania rud metali nie¿elaznych zawieraj¹ce substancje niebezpieczne;13
+01;03;81;B;Odpady z flotacyjnego wzbogacania rud metali nie¿elaznych inne ni¿ wymienione w 01 03 80;14
+01;03;99;B;Inne nie wymienione odpady;15
+01;04;;B;Odpady z fizycznej i chemicznej przeróbki kopalin innych ni¿ rudy metali;16
+01;04;07;N;Odpady zawieraj¹ce niebezpieczne substancje z fizycznej i chemicznej przeróbki kopalin innych ni¿ rudy metali;17
+01;04;08;B;Odpady ¿wiru lub skruszone ska³y inne ni¿ wymienione w 01 04 07;18
+01;04;09;B;Odpadowe piaski i i³y;19
+01;04;10;B;Odpady w postaci py³ów i proszków inne ni¿ wymienione w 01 04 07;20
+01;04;11;B;Odpady powstaj¹ce przy wzbogacaniu soli kamiennej i potasowej inne ni¿ wymienione w 01 04 07;21
+01;04;12;B;Odpady powstaj¹ce przy p³ukaniu i oczyszczaniu kopalin inne ni¿ wymienione w 01 04 07 i 01 04 11;22
+01;04;13;B;Odpady powstaj¹ce przy ciêciu i obróbce postaciowej ska³ inne ni¿ wymienione w 01 04 07;23
+01;04;80;N;Odpady z flotacyjnego wzbogacania wêgla zawieraj¹ce substancje niebezpieczne;24
+01;04;81;B;Odpady z flotacyjnego wzbogacania wêgla inne ni¿ wymienione w 01 04 80;25
+01;04;82;N;Odpady z flotacyjnego wzbogacania rud siarkowych zawieraj¹ce substancje niebezpieczne;26
+01;04;83;B;Odpady z flotacyjnego wzbogacania rud siarkowych inne ni¿ wymienione w 01 04 82;27
+01;04;84;N;Odpady z flotacyjnego wzbogacania rud fosforowych (fosforytów, apatytów) zawieraj¹ce substancje niebezpieczne;28
+01;04;85;B;Odpady z flotacyjnego wzbogacania rud fosforowych (fosforytów, apatytów) inne ni¿ wymienione w 01 04 84;29
+01;04;99;B;Inne nie wymienione odpady;30
+01;05;;B;P³uczki wiertnicze i inne odpady wiertnicze;31
+01;05;04;B;P³uczki i odpady wiertnicze z odwiertów wody s³odkiej;32
+01;05;05;N;P³uczki i odpady wiertnicze zawieraj¹ce ropê naftow¹;33
+01;05;06;N;P³uczki i odpady wiertnicze zawieraj¹ce substancje niebezpieczne;34
+01;05;07;B;P³uczki wiertnicze zawieraj¹ce baryt i odpady inne ni¿ wymienione w 01 05 05 i 01 05 06;35
+01;05;08;B;P³uczki wiertnicze zawieraj¹ce chlorki i odpady inne ni¿ wymienione w 01 05 05 i 01 05 06;36
+01;05;99;B;Inne nie wymienione odpady;37
+02;;;B;Odpady z rolnictwa, sadownictwa, upraw hydroponicznych, rybo³ówstwa, leœnictwa, ³owiectwa oraz przetwórstwa ¿ywnoœci;38
+02;01;;B;Odpady z rolnictwa, sadownictwa, upraw hydroponicznych, leœnictwa, ³owiectwa i rybo³ówstwa;39
+02;01;01;B;Osady z mycia i czyszczenia;40
+02;01;02;B;Odpadowa tkanka zwierzêca;41
+02;01;03;B;Odpadowa masa roœlinna;42
+02;01;04;B;Odpady tworzyw sztucznych (z wy³¹czeniem opakowañ);43
+02;01;06;B;Odchody zwierzêce;44
+02;01;07;B;Odpady z gospodarki leœnej;45
+02;01;08;N;Odpady agrochemikaliów zawieraj¹ce substancje niebezpieczne, w tym œrodki ochrony roœlin I i II klasy toksycznoœci (bardzo toksyczne i toksyczne);46
+02;01;09;B;Odpady agrochemikaliów inne ni¿ wymienione w 02 01 08;47
+02;01;10;B;Odpady metalowe;48
+02;01;80;N;Zwierzêta pad³e i ubite z koniecznoœci oraz odpadowa tkanka zwierzêca wykazuj¹ce w³aœciwoœci niebezpieczne;49
+02;01;81;B;Zwierzêta pad³e i odpadowa tkanka zwierzêca stanowi¹ce materia³ szczególnego i wysokiego ryzyka inne ni¿ wymienione w 02 01 80;50
+02;01;82;B;Zwierzêta pad³e i ubite z koniecznoœci;51
+02;01;83;B;Odpady z upraw hydroponicznych;52
+02;01;99;B;Inne nie wymienione odpady;53
+02;02;;B;Odpady z przygotowania i przetwórstwa produktów spo¿ywczych pochodzenia zwierzêcego;54
+02;02;01;B;Odpady z mycia i przygotowywania surowców;55
+02;02;02;B;Odpadowa tkanka zwierzêca;56
+02;02;03;B;Surowce i produkty nie nadaj¹ce siê do spo¿ycia i przetwórstwa;57
+02;02;04;B;Osady z zak³adowych oczyszczalni œcieków;58
+02;02;80;N;Odpadowa tkanka zwierzêca wykazuj¹ca w³aœciwoœci niebezpieczne;59
+02;02;81;B;Odpadowa tkanka zwierzêca stanowi¹ca materia³ szczególnego i wysokiego ryzyka, w tym odpady z produkcji pasz miêsno-kostnych inne ni¿ wymienione w 02 02 80;60
+02;02;82;B;Odpady z produkcji m¹czki rybnej inne ni¿ wymienione w 02 02 80;61
+02;02;99;B;Inne nie wymienione odpady;62
+02;03;;B;Odpady z przygotowania, przetwórstwa produktów i u¿ywek spo¿ywczych oraz odpady pochodzenia roœlinnego, w tym odpady z owoców, warzyw, produktów zbo¿owych, olejów jadalnych, kakao, kawy, herbaty oraz przygotowania i przetwórstwa tytoniu, dro¿d¿y i produkcji ekstraktów dro¿d¿owych, przygotowywania i fermentacji melasy (z wy³¹czeniem 02 07);63
+02;03;01;B;Szlamy z mycia, oczyszczania, obierania, odwirowywania i oddzielania surowców;64
+02;03;02;B;Odpady konserwantów;65
+02;03;03;B;Odpady poekstrakcyjne;66
+02;03;04;B;Surowce i produkty nie nadaj¹ce siê do spo¿ycia i przetwórstwa;67
+02;03;05;B;Osady z zak³adowych oczyszczalni œcieków;68
+02;03;80;B;Wyt³oki, osady i inne odpady z przetwórstwa produktów roœlinnych (z wy³¹czeniem 02 03 81);69
+02;03;81;B;Odpady z produkcji pasz roœlinnych;70
+02;03;82;B;Odpady tytoniowe;71
+02;03;99;B;Inne nie wymienione odpady;72
+02;04;;B;Odpady z przemys³u cukrowniczego;73
+02;04;01;B;Osady z oczyszczania i mycia buraków;74
+02;04;02;B;Nienormatywny wêglan wapnia oraz kreda cukrownicza (wapno defekacyjne);75
+02;04;03;B;Osady z zak³adowych oczyszczalni œcieków;76
+02;04;80;B;Wys³odki;77
+02;04;99;B;Inne nie wymienione odpady;78
+02;05;;B;Odpady z przemys³u mleczarskiego;79
+02;05;01;B;Surowce i produkty nieprzydatne do spo¿ycia oraz przetwarzania;80
+02;05;02;B;Osady z zak³adowych oczyszczalni œcieków;81
+02;05;80;B;Odpadowa serwatka;82
+02;05;99;B;Inne nie wymienione odpady;83
+02;06;;B;Odpady z przemys³u piekarniczego i cukierniczego;84
+02;06;01;B;Surowce i produkty nieprzydatne do spo¿ycia i przetwórstwa;85
+02;06;02;B;Odpady konserwantów;86
+02;06;03;B;Osady z zak³adowych oczyszczalni œcieków;87
+02;06;80;B;Nieprzydatne do wykorzystania t³uszcze spo¿ywcze;88
+02;06;99;B;Inne nie wymienione odpady;89
+02;07;;B;Odpady z produkcji napojów alkoholowych i bezalkoholowych (z wy³¹czeniem kawy, herbaty i kakao);90
+02;07;01;B;Odpady z mycia, oczyszczania i mechanicznego rozdrabniania surowców;91
+02;07;02;B;Odpady z destylacji spirytualiów;92
+02;07;03;B;Odpady z procesów chemicznych;93
+02;07;04;B;Surowce i produkty nie przydatne do spo¿ycia i przetwórstwa;94
+02;07;05;B;Osady z zak³adowych oczyszczalni œcieków;95
+02;07;80;B;Wyt³oki, osady moszczowe i pofermentacyjne, wywary;96
+02;07;99;B;Inne nie wymienione odpady;97
+03;;;B;Odpady z przetwórstwa drewna oraz z produkcji p³yt i mebli, masy celulozowej, papieru i tektury;98
+03;01;;B;Odpady z przetwórstwa drewna oraz z produkcji p³yt i mebli;99
+03;01;01;B;Odpady kory i korka;100
+03;01;04;N;Trociny, wióry, œcinki, drewno, p³yta wiórowa i fornir zawieraj¹ce substancje niebezpieczne;101
+03;01;05;B;Trociny, wióry, œcinki, drewno, p³yta wiórowa i fornir inne ni¿ wymienione w 03 01 04;102
+03;01;80;N;Odpady z chemicznej przeróbki drewna zawieraj¹ce substancje niebezpieczne;103
+03;01;81;B;Odpady z chemicznej przeróbki drewna inne ni¿ wymienione w 03 01 80;104
+03;01;82;B;Osady z zak³adowych oczyszczalni œcieków;105
+03;01;99;B;Inne nie wymienione odpady;106
+03;02;;B;Odpady powstaj¹ce przy konserwacji drewna;107
+03;02;01;N;Œrodki do konserwacji i impregnacji drewna nie zawieraj¹ce zwi¹zków chlorowcoorganicznych;108
+03;02;02;N;Œrodki do konserwacji i impregnacji drewna zawieraj¹ce zwi¹zki chlorowcoorganiczne;109
+03;02;03;N;Metaloorganiczne œrodki do konserwacji i impregnacji drewna;110
+03;02;04;N;Nieorganiczne œrodki do konserwacji i impregnacji drewna;111
+03;02;05;N;Inne œrodki do konserwacji i impregnacji drewna zawieraj¹ce substancje niebezpieczne;112
+03;02;99;B;Inne nie wymienione odpady;113
+03;03;;B;Odpady z produkcji oraz z przetwórstwa masy celulozowej, papier;114
+03;03;01;B;Odpady z kory i drewna;116
+03;03;02;B;Osady i szlamy z produkcji celulozy metod¹ siarczynow¹ (w tym osady ³ugu zielonego);117
+03;03;05;B;Szlamy z odbarwiania makulatury;118
+03;03;07;B;Mechanicznie wydzielone odrzuty z przeróbki makulatury i tektury;119
+03;03;08;B;Odpady z sortowania papieru i tektury przeznaczone do recyklingu;120
+03;03;09;B;Odpady szlamów defekosaturacyjnych;121
+03;03;10;B;Odpady z w³ókna, szlamy z w³ókien, wype³niaczy i pow³ok pochodz¹ce z mechanicznej separacji;122
+03;03;11;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 03 03 10;123
+03;03;80;B;Szlamy z procesów bielenia podchlorynem lub chlorem;124
+03;03;81;B;Szlamy z innych procesów bielenia;125
+03;03;99;B;Inne nie wymienione odpady;126
+04;;;B;Odpady z przemys³u skórzanego, futrzarskiego i tekstylnego;127
+04;01;;B;Odpady z przemys³u skórzanego i futrzarskiego;128
+04;01;01;B;Odpady z mizdrowania (odzierki i dwoiny wapniowe);129
+04;01;02;B;Odpady z wapnienia;130
+04;01;03;N;Odpady z odt³uszczania zawieraj¹ce rozpuszczalniki (bez fazy ciek³ej);131
+04;01;04;B;Brzeczka garbuj¹ca zawieraj¹ca chrom;132
+04;01;05;B;Brzeczka garbuj¹ca nie zawieraj¹ca chromu;133
+04;01;06;B;Osady zawieraj¹ce chrom, zw³aszcza z zak³adowych oczyszczalni œcieków;134
+04;01;07;B;Osady nie zawieraj¹ce chromu, zw³aszcza z zak³adowych oczyszczalni œcieków;135
+04;01;08;B;Odpady skóry wygarbowanej zawieraj¹ce chrom (wióry, obcinki, py³ ze szlifowania skór);136
+04;01;09;B;Odpady z polerowania i wykañczania;137
+04;01;99;B;Inne nie wymienione odpady;138
+04;02;;B;Odpady z przemys³u tekstylnego;139
+04;02;09;B;Odpady materia³ów z³o¿onych (np. tkaniny impregnowane, elastomery, plastomery);140
+04;02;10;B;Substancje organiczne z produktów naturalnych (np. t³uszcze, woski);141
+04;02;14;N;Odpady z wykañczania zawieraj¹ce rozpuszczalniki organiczne;142
+04;02;15;B;Odpady z wykañczania inne ni¿ wymienione w 04 02 14;143
+04;02;16;N;Barwniki i pigmenty zawieraj¹ce substancje niebezpieczne;144
+04;02;17;B;Barwniki i pigmenty inne ni¿ wymienione w 04 02 16;145
+04;02;19;N;Odpady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;146
+04;02;20;B;Odpady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 04 02 19;147
+04;02;21;B;Odpady z nieprzetworzonych w³ókien tekstylnych;148
+04;02;22;B;Odpady z przetworzonych w³ókien tekstylnych;149
+04;02;80;B;Odpady z mokrej obróbki wyrobów tekstylnych;150
+04;02;99;B;Inne nie wymienione odpady;151
+05;;;B;Odpady z przeróbki ropy naftowej, oczyszczania gazu ziemnego oraz pirolitycznej przeróbki wêgla;152
+05;01;;B;Odpady z przeróbki (np. rafinacji) ropy naftowej;153
+05;01;02;N;Osady z odsalania;154
+05;01;03;N;Osady z dna zbiorników;155
+05;01;04;N;Kwaœne szlamy z procesów alkilowania;156
+05;01;05;N;Wycieki ropy naftowej;157
+05;01;06;N;Zaolejone osady z konserwacji instalacji lub urz¹dzeñ;158
+05;01;07;N;Kwaœne smo³y;159
+05;01;08;N;Inne smo³y;160
+05;01;09;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;161
+05;01;10;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 05 01 09;162
+05;01;11;N;Odpady z alkalicznego oczyszczania paliw;163
+05;01;12;N;Ropa naftowa zawieraj¹ca kwasy;164
+05;01;13;B;Osady z uzdatniania wody kot³owej;165
+05;01;14;B;Odpady z kolumn ch³odniczych;166
+05;01;15;N;Zu¿yte naturalne materia³y filtracyjne (np. gliny, i³y);167
+05;01;16;B;Odpady zawieraj¹ce siarkê z odsiarczania ropy naftowej;168
+05;01;17;B;Bitum;169
+05;01;99;B;Inne nie wymienione odpady;170
+05;06;;B;Odpady z pirolitycznej przeróbki wêgla;171
+05;06;01;N;Kwaœne smo³y;172
+05;06;03;N;Inne smo³y;173
+05;06;04;B;Odpady z kolumn ch³odniczych;174
+05;06;80;N;Odpady ciek³e zawieraj¹ce fenole;175
+05;06;99;B;Inne nie wymienione odpady;176
+05;07;;B;Odpady z oczyszczania i transportu gazu ziemnego;177
+05;07;01;N;Osady zawieraj¹ce rtêæ;178
+05;07;02;B;Odpady zawieraj¹ce siarkê;179
+05;07;99;B;Inne nie wymienione odpady;180
+06;;;B;Odpady z produkcji, przygotowania, obrotu i stosowania produktów przemys³u chemii nieorganicznej;181
+06;01;;B;Odpady z produkcji, przygotowania, obrotu i stosowania kwasów nieorganicznych;182
+06;01;01;N;Kwas siarkowy i siarkawy;183
+06;01;02;N;Kwas chlorowodorowy;184
+06;01;03;N;Kwas fluorowodorowy;185
+06;01;04;N;Kwas fosforowy i fosforawy;186
+06;01;05;N;Kwas azotowy i azotawy;187
+06;01;06;N;Inne kwasy;188
+06;01;99;B;Inne nie wymienione odpady;189
+06;02;;B;Odpady z produkcji, przygotowania, obrotu i stosowania wodorotlenków;190
+06;02;01;N;Wodorotlenek wapniowy;191
+06;02;03;N;Wodorotlenek amonowy;192
+06;02;04;N;Wodorotlenek sodowy i potasowy;193
+06;02;05;N;Inne wodorotlenki;194
+06;02;99;B;Inne nie wymienione odpady;195
+06;03;;B;Odpady z produkcji, przygotowania, obrotu i stosowania soli i ich roztworów oraz tlenków metali;196
+06;03;11;N;Sole i roztwory zawieraj¹ce cyjanki;197
+06;03;13;N;Sole i roztwory zawieraj¹ce metale ciê¿kie;198
+06;03;14;B;Sole i roztwory inne ni¿ wymienione w 06 03 11 i 06 03 13;199
+06;03;15;N;Tlenki metali zawieraj¹ce metale ciê¿kie;200
+06;03;16;B;Tlenki metali inne ni¿ wymienione w 06 03 15;201
+06;03;99;B;Inne nie wymienione odpady;202
+06;04;;B;Odpady zawieraj¹ce metale inne ni¿ wymienione w 06 03;203
+06;04;03;N;Odpady zawieraj¹ce arsen;204
+06;04;04;N;Odpady zawieraj¹ce rtêæ;205
+06;04;05;N;Odpady zawieraj¹ce inne metale ciê¿kie;206
+06;04;99;B;Inne nie wymienione odpady;207
+06;05;;B;Osady z zak³adowych oczyszczalni œcieków;208
+06;05;02;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;209
+06;05;03;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 06 05 02;210
+06;06;;B;Odpady z produkcji, przygotowania, obrotu i stosowania zwi¹zków siarki oraz z chemicznych procesów przetwórstwa siarki i odsiarczania;211
+06;06;02;N;Odpady zawieraj¹ce niebezpieczne siarczki;212
+06;06;03;B;Odpady zawieraj¹ce siarczki inne ni¿ wymienione w 06 06 02;213
+06;06;99;B;Inne nie wymienione odpady;214
+06;07;;B;Odpady z produkcji, przygotowania, obrotu i stosowania chlorowców oraz z chemicznych procesów przetwórstwa chloru;215
+06;07;01;N;Odpady azbestowe z elektrolizy;216
+06;07;02;N;Wêgiel aktywny z produkcji chloru;217
+06;07;03;N;Osady siarczanu baru zawieraj¹ce rtêæ;218
+06;07;04;N;Roztwory i kwasy (np. kwas siarkowy);219
+06;07;99;B;Inne nie wymienione odpady;220
+06;08;;B;Odpady z produkcji, przygotowania, obrotu i stosowania krzemu oraz pochodnych krzemu;221
+06;08;02;N;Odpady zawieraj¹ce niebezpieczne silikony;222
+06;08;99;B;Inne nie wymienione odpady;223
+06;09;;B;Odpady z produkcji, przygotowania, obrotu i stosowania chemikaliów fosforowych oraz z chemicznych procesów przetwórstwa fosforu;224
+06;09;02;B;¯u¿el fosforowy;225
+06;09;03;N;Poreakcyjne odpady zwi¹zków wapnia zawieraj¹ce lub zanieczyszczone substancjami niebezpiecznymi;226
+06;09;04;B;Poreakcyjne odpady zwi¹zków wapnia inne ni¿ wymienione w 06 09 03 i 06 09 80;227
+06;09;80;B;Fosfogipsy;228
+06;09;81;B;Fosfogipsy wymieszane z ¿u¿lami, popio³ami paleniskowymi, i py³ami z kot³ów (z wy³¹czeniem py³ów z kot³ów wymienionych w 10 01 04);229
+06;09;99;B;Inne nie wymienione odpady;230
+06;10;;B;Odpady z produkcji, przygotowania, obrotu i stosowania chemikaliów azotowych, z chemicznych procesów przetwórstwa azotu oraz z produkcji nawozów azotowych i innych;231
+06;10;02;N;Odpady zawieraj¹ce substancje niebezpieczne;232
+06;10;99;B;Inne nie wymienione odpady;233
+06;11;;B;Odpady z produkcji pigmentów oraz zmêtniaczy nieorganicznych;234
+06;11;01;B;Poreakcyjne odpady zwi¹zków wapnia z produkcji dwutlenku tytanu;235
+06;11;80;B;Odpady z produkcji zwi¹zków cyrkonu;236
+06;11;81;B;Odpady z produkcji zwi¹zków chromu;237
+06;11;82;B;Odpady z produkcji zwi¹zków kobaltu;238
+06;11;83;B;Odpadowy siarczan ¿elazaowy;239
+06;11;99;B;Inne nie wymienione odpady;240
+06;13;;B;Odpady z innych nieorganicznych procesów chemicznych;241
+06;13;01;N;Nieorganiczne œrodki ochrony roœlin (np. pestycydy), œrodki do konserwacji drewna oraz inne biocydy;242
+06;13;02;N;Zu¿yty wêgiel aktywny (z wy³¹czeniem 06 07 02);243
+06;13;03;B;Czysta sadza;244
+06;13;04;N;Odpady z przetwarzania azbestu;245
+06;13;05;N;Sadza zawieraj¹ca lub zanieczyszczona substancjami niebezpiecznymi;246
+06;13;99;B;Inne nie wymienione odpady;247
+07;;;B;Odpady z produkcji, przygotowania, obrotu i stosowania produktów przemys³u chemii organicznej;248
+07;01;;B;Odpady z produkcji, przygotowania, obrotu i stosowania podstawowych produktów przemys³u chemii organicznej;249
+07;01;01;N;Wody pop³uczne i ³ugi macierzyste;250
+07;01;03;N;Rozpuszczalniki chlorowcoorganiczne, roztwory z przemywania i ciecze macierzyste;251
+07;01;04;N;Inne rozpuszczalniki organiczne, roztwory z przemywania i ciecze macierzyste;252
+07;01;07;N;Pozosta³oœci podestylacyjne i poreakcyjne zawieraj¹ce zwi¹zki chlorowców;253
+07;01;08;N;Inne pozosta³oœci podestylacyjne i poreakcyjne;254
+07;01;09;N;Zu¿yte sorbenty i osady pofiltracyjne zawieraj¹ce zwi¹zki chlorowców;255
+07;01;10;N;Inne zu¿yte sorbenty i osady pofiltracyjne;256
+07;01;11;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;257
+07;01;12;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 07 01 11;258
+07;01;80;B;Wapno pokarbidowe nie zawieraj¹ce substancji niebezpiecznych (inne ni¿ wymienione w 07 01 08);259
+07;01;99;B;Inne nie wymienione odpady;260
+07;02;;B;Odpady z produkcji, przygotowania, obrotu i stosowania tworzyw sztucznych oraz kauczuków i w³ókien syntetycznych;261
+07;02;01;N;Wody pop³uczne i ³ugi macierzyste;262
+07;02;03;N;Rozpuszczalniki chlorowcoorganiczne, roztwory z przemywania i ciecze macierzyste;263
+07;02;04;N;Inne rozpuszczalniki organiczne, roztwory z przemywania i ciecze macierzyste;264
+07;02;07;N;Pozosta³oœci podestylacyjne i poreakcyjne zawieraj¹ce zwi¹zki chlorowców;265
+07;02;08;N;Inne pozosta³oœci podestylacyjne i poreakcyjne;266
+07;02;09;N;Zu¿yte sorbenty i osady pofiltracyjne zawieraj¹ce zwi¹zki chlorowców;267
+07;02;10;N;Inne zu¿yte sorbenty i osady pofiltracyjne;268
+07;02;11;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;269
+07;02;12;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 07 02 11;270
+07;02;13;B;Odpady tworzyw sztucznych;271
+07;02;14;N;Odpady z dodatków zawieraj¹ce substancje niebezpieczne (np. plastyfikatory, stabilizatory);272
+07;02;15;B;Odpady z dodatków inne ni¿ wymienione w 07 02 14;273
+07;02;16;N;Odpady zawieraj¹ce niebezpieczne silikony;274
+07;02;17;B;Odpady zawieraj¹ce silikony inne ni¿ wymienione w 07 02 16;275
+07;02;80;B;Odpady z przemys³u gumowego i produkcji gumy;276
+07;02;99;B;Inne nie wymienione odpady;277
+07;03;;B;Odpady z produkcji, przygotowania, obrotu i stosowania organicznych barwników oraz pigmentów (z wy³¹czeniem podgrupy 06 11);278
+07;03;01;N;Wody pop³uczne i ³ugi macierzyste;279
+07;03;03;N;Rozpuszczalniki chlorowcoorganiczne, roztwory z przemywania i ciecze macierzyste;280
+07;03;04;N;Inne rozpuszczalniki organiczne, roztwory z przemywania i ciecze macierzyste;281
+07;03;07;N;Pozosta³oœci podestylacyjne i poreakcyjne zawieraj¹ce zwi¹zki chlorowców;282
+07;03;08;N;Inne pozosta³oœci podestylacyjne i poreakcyjne;283
+07;03;09;N;Zu¿yte sorbenty i osady pofiltracyjne zawieraj¹ce zwi¹zki chlorowców;284
+07;03;10;N;Inne zu¿yte sorbenty i osady pofiltracyjne;285
+07;03;11;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;286
+07;03;12;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 07 03 11;287
+07;03;99;B;Inne nie wymienione odpady;288
+07;04;;B;Odpady z produkcji, przygotowania, obrotu i stosowania organicznych œrodków ochrony roœlin (z wy³¹czeniem 02 01 08 i 02 01 09), œrodków do konserwacji drewna (z wy³¹czeniem 03 02) i innych biocydów;289
+07;04;01;N;Wody pop³uczne i ³ugi macierzyste;290
+07;04;03;N;Rozpuszczalniki chlorowcoorganiczne, roztwory z przemywania i ciecze macierzyste;291
+07;04;04;N;Inne rozpuszczalniki organiczne, roztwory z przemywania i ciecze macierzyste;292
+07;04;07;N;Pozosta³oœci podestylacyjne i poreakcyjne zawieraj¹ce zwi¹zki chlorowców;293
+07;04;08;N;Inne pozosta³oœci podestylacyjne i poreakcyjne;294
+07;04;09;N;Zu¿yte sorbenty i osady pofiltracyjne zawieraj¹ce zwi¹zki chlorowców;295
+07;04;10;N;Inne zu¿yte sorbenty i osady pofiltracyjne;296
+07;04;11;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;297
+07;04;12;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 07 04 11;298
+07;04;13;N;Odpady sta³e zawieraj¹ce substancje niebezpieczne;299
+07;04;80;N;Przeterminowane œrodki ochrony roœlin I i II klasy toksycznoœci (bardzo toksyczne i toksyczne);300
+07;04;81;B;Przeterminowane œrodki ochrony roœlin inne ni¿ wymienione w 07 04 80;301
+07;04;99;B;Inne nie wymienione odpady;302
+07;05;;B;Odpady z produkcji, przygotowania, obrotu i stosowania farmaceutyków;303
+07;05;01;N;Wody pop³uczne i ³ugi macierzyste;304
+07;05;03;N;Rozpuszczalniki chlorowcoorganiczne, roztwory z przemywania i ciecze macierzyste;305
+07;05;04;N;Inne rozpuszczalniki organiczne, roztwory z przemywania i ciecze macierzyste;306
+07;05;07;N;Pozosta³oœci podestylacyjne i poreakcyjne zawieraj¹ce zwi¹zki chlorowców;307
+07;05;08;N;Inne pozosta³oœci podestylacyjne i poreakcyjne;308
+07;05;09;N;Zu¿yte sorbenty i osady pofiltracyjne zawieraj¹ce zwi¹zki chlorowców;309
+07;05;10;N;Inne zu¿yte sorbenty i osady pofiltracyjne;310
+07;05;11;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;311
+07;05;12;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 07 05 11;312
+07;05;13;N;Odpady sta³e zawieraj¹ce substancje niebezpieczne;313
+07;05;14;B;Odpady sta³e inne ni¿ wymienione w 07 05 13;314
+07;05;80;N;Odpady ciek³e zawieraj¹ce substancje niebezpieczne;315
+07;05;81;B;Odpady ciek³e inne ni¿ wymienione w 07 05 80;316
+07;05;99;B;Inne nie wymienione odpady;317
+07;06;;B;Odpady z produkcji, przygotowania, obrotu i stosowania t³uszczów, nat³ustek, myde³, detergentów, œrodków dezynfekuj¹cych i kosmetyków;318
+07;06;01;N;Wody pop³uczne i ³ugi macierzyste;319
+07;06;03;N;Rozpuszczalniki chlorowcoorganiczne, roztwory z przemywania i ciecze macierzyste;320
+07;06;04;N;Inne rozpuszczalniki organiczne, roztwory z przemywania i ciecze macierzyste;321
+07;06;07;N;Pozosta³oœci podestylacyjne i poreakcyjne zawieraj¹ce zwi¹zki chlorowców;322
+07;06;08;N;Inne pozosta³oœci podestylacyjne i poreakcyjne;323
+07;06;09;N;Zu¿yte sorbenty i osady pofiltracyjne zawieraj¹ce zwi¹zki chlorowców;324
+07;06;10;N;Inne zu¿yte sorbenty i osady pofiltracyjne;325
+07;06;11;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;326
+07;06;12;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 07 06 11;327
+07;06;80;B;Ziemia biel¹ca z rafinacji oleju;328
+07;06;81;B;Zwroty kosmetyków i próbek;329
+07;06;99;B;Inne nie wymienione odpady;330
+07;07;;B;Odpady z produkcji, przygotowania, obrotu i stosowania innych nie wymienionych produktów chemicznych;331
+07;07;01;N;Wody pop³uczne i ³ugi macierzyste;332
+07;07;03;N;Rozpuszczalniki chlorowcoorganiczne, roztwory z przemywania i ciecze macierzyste;333
+07;07;04;N;Inne rozpuszczalniki organiczne, roztwory z przemywania i ciecze macierzyste;334
+07;07;07;N;Pozosta³oœci podestylacyjne i poreakcyjne zawieraj¹ce zwi¹zki chlorowców;335
+07;07;08;N;Inne pozosta³oœci podestylacyjne i poreakcyjne;336
+07;07;09;N;Zu¿yte sorbenty i osady pofiltracyjne zawieraj¹ce zwi¹zki chlorowców;337
+07;07;10;N;Inne zu¿yte sorbenty i osady pofiltracyjne;338
+07;07;11;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;339
+07;07;12;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 07 07 11;340
+07;07;99;B;Inne nie wymienione odpady;341
+08;;;B;Odpady z produkcji, przygotowania, obrotu i stosowania pow³ok ochronnych (farb, lakierów, emalii ceramicznych), kitu, klejów, szczeliw i farb drukarskich;342
+08;01;;B;Odpady z produkcji, przygotowania, obrotu i stosowania oraz usuwania farb i lakierów;343
+08;01;11;N;Odpady farb i lakierów zawieraj¹cych rozpuszczalniki organiczne lub inne substancje niebezpieczne;344
+08;01;12;B;Odpady farb i lakierów inne ni¿ wymienione w 08 01 11;345
+08;01;13;N;Szlamy z usuwania farb i lakierów zawieraj¹ce rozpuszczalniki organiczne lub inne substancje niebezpieczne;346
+08;01;14;B;Szlamy z usuwania farb i lakierów inne ni¿ wymienione w 08 01 13;347
+08;01;15;N;Szlamy wodne zawieraj¹ce farby i lakiery zawieraj¹ce rozpuszczalniki organiczne lub inne substancje niebezpieczne;348
+08;01;16;B;Szlamy wodne zawieraj¹ce farby i lakiery inne ni¿ wymienione w 08 01 15;349
+08;01;17;N;Odpady z usuwania farb i lakierów zawieraj¹ce rozpuszczalniki organiczne lub inne substancje niebezpieczne;350
+08;01;18;B;Odpady z usuwania farb i lakierów inne ni¿ wymienione w 08 01 17;351
+08;01;19;N;Zawiesiny wodne farb lub lakierów zawieraj¹ce rozpuszczalniki organiczne lub inne substancje niebezpieczne;352
+08;01;20;B;Zawiesiny wodne farb lub lakierów inne ni¿ wymienione w 08 01 19;353
+08;01;21;N;Zmywacz farb lub lakierów;354
+08;01;99;B;Inne nie wymienione odpady;355
+08;02;;B;Odpady z produkcji, przygotowania, obrotu i stosowania innych pow³ok (w tym materia³ów ceramicznych;356
+08;02;01;B;Odpady proszków powlekaj¹cych;357
+08;02;02;B;Szlamy wodne zawieraj¹ce materia³y ceramiczne;358
+08;02;03;B;Zawiesiny wodne zawieraj¹ce materia³y ceramiczne;359
+08;02;99;B;Inne nie wymienione odpady;360
+08;03;;B;Odpady z produkcji, przygotowania, obrotu i stosowania farb drukarskich;361
+08;03;07;B;Szlamy wodne zawieraj¹ce farby drukarskie;362
+08;03;08;B;Odpady ciek³e zawieraj¹ce farby drukarskie;363
+08;03;12;N;Odpady farb drukarskich zawieraj¹ce substancje niebezpieczne;364
+08;03;13;B;Odpady farb drukarskich inne ni¿ wymienione w 08 03 12;365
+08;03;14;N;Szlamy farb drukarskich zawieraj¹ce substancje niebezpieczne;366
+08;03;15;B;Szlamy farb drukarskich inne ni¿ wymienione w 08 03 14;367
+08;03;16;N;Zu¿yte roztwory trawi¹ce;368
+08;03;17;N;Odpadowy toner drukarski zawieraj¹cy substancje niebezpieczne;369
+08;03;18;B;Odpadowy toner drukarski inny ni¿ wymieniony w 08 03 17;370
+08;03;19;N;Zdyspergowany olej zawieraj¹cy substancje niebezpieczne;371
+08;03;80;B;Zdyspergowany olej inny ni¿ wymieniony w 08 03 19;372
+08;03;99;B;Inne nie wymienione odpady;373
+08;04;;B;Odpady z produkcji, przygotowania, obrotu i stosowania klejów oraz szczeliw (w tym œrodki do impregnacji wodoszczelnej;374
+08;04;09;N;Odpadowe kleje i szczeliwa zawieraj¹ce rozpuszczalniki organiczne lub inne substancje niebezpieczne;375
+08;04;10;B;Odpadowe kleje i szczeliwa inne ni¿ wymienione w 08 04 09;376
+08;04;11;N;Osady z klejów i szczeliw zawieraj¹ce rozpuszczalniki organiczne lub inne substancje niebezpieczne;377
+08;04;12;B;Osady z klejów i szczeliw inne ni¿ wymienione w 08 04 11;378
+08;04;13;N;Uwodnione szlamy klejów lub szczeliw zawieraj¹ce rozpuszczalniki organiczne lub inne substancje niebezpieczne;379
+08;04;14;B;Uwodnione szlamy klejów lub szczeliw inne ni¿ wymienione w 08 04 13;380
+08;04;15;N;Odpady ciek³e klejów lub szczeliw zawieraj¹ce rozpuszczalniki organiczne lub inne substancje niebezpieczne;381
+08;04;16;B;Odpady ciek³e klejów lub szczeliw inne ni¿ wymienione w 08 04 15;382
+08;04;17;N;Olej ¿ywiczny;383
+08;04;99;B;Inne nie wymienione odpady;384
+08;05;;B;Odpady nie ujête w innych podgrupach grupy 08;385
+08;05;01;N;Odpady izocyjanianów;386
+09;;;B;Odpady z przemys³u fotograficznego i us³ug fotograficznych;387
+09;01;;B;Odpady z przemys³u fotograficznego i us³ug fotograficznych;388
+09;01;01;N;Wodne roztwory wywo³ywaczy i aktywatorów;389
+09;01;02;N;Wodne roztwory wywo³ywaczy do p³yt offsetowych;390
+09;01;03;N;Roztwory wywo³ywaczy opartych na rozpuszczalnikach;391
+09;01;04;N;Roztwory utrwalaczy;392
+09;01;05;N;Roztwory wybielaczy i k¹pieli wybielaj¹co-utrwalaj¹cych;393
+09;01;06;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce srebro;394
+09;01;07;B;B³ony i papier fotograficzny zawieraj¹ce srebro lub zwi¹zki srebra;395
+09;01;08;B;B³ony i papier fotograficzny nie zawieraj¹ce srebra;396
+09;01;10;B;Aparaty fotograficzne jednorazowego u¿ytku bez baterii;397
+09;01;11;N;Aparaty fotograficzne jednorazowego u¿ytku zawieraj¹ce baterie wymienione w 16 06 01, 16 06 02 lub 16 06 03;398
+09;01;12;B;Aparaty fotograficzne jednorazowego u¿ytku zawieraj¹ce baterie inne ni¿ wymienione w 09 01 11;399
+09;01;13;N;Odpady ciek³e z zak³adowej regeneracji srebra inne ni¿ wymienione w 09 01 06;400
+09;01;80;N;Przeterminowane odczynniki fotograficzne;401
+09;01;99;B;Inne nie wymienione odpady;402
+10;;;B;Odpady z procesów termicznych;403
+10;01;;B;Odpady z elektrowni i innych zak³adów energetycznego spalania paliw (z wy³¹czeniem grupy 19);404
+10;01;01;B;¯u¿le, popio³y paleniskowe i py³y z kot³ów (z wy³¹czeniem py³ów z kot³ów wymienionych w 10 01 04);405
+10;01;02;B;Popio³y lotne z wêgla;406
+10;01;03;B;Popio³y lotne z torfu i drewna nie poddanego obróbce chemicznej;407
+10;01;04;N;Popio³y lotne i py³y z kot³ów z paliw p³ynnych;408
+10;01;05;B;Sta³e odpady z wapniowych metod odsiarczania gazów odlotowych;409
+10;01;07;B;Produkty z wapniowych metod odsiarczania gazów odlotowych odprowadzane w postaci szlamu;410
+10;01;09;N;Kwas siarkowy;411
+10;01;13;N;Popio³y lotne z emulgowanych wêglowodorów stosowanych jako paliwo;412
+10;01;14;N;Popio³y paleniskowe, ¿u¿le i py³y z kot³ów ze wspó³spalania zawieraj¹ce substancje niebezpieczne;413
+10;01;15;B;Popio³y paleniskowe, ¿u¿le i py³y z kot³ów ze wspó³spalania inne ni¿ wymienione w 10 01 14;414
+10;01;16;N;Popio³y lotne ze wspó³spalania zawieraj¹ce substancje niebezpieczne;415
+10;01;17;B;Popio³y lotne ze wspó³spalania inne ni¿ wymienione w 10 01 16;416
+10;01;18;N;Odpady z oczyszczania gazów odlotowych zawieraj¹ce substancje niebezpieczne;417
+10;01;19;B;Odpady z oczyszczania gazów odlotowych inne ni¿ wymienione w 10 01 05, 10 01 07 i 10 01 18;418
+10;01;20;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;419
+10;01;21;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 10 01 20;420
+10;01;22;N;Uwodnione szlamy z czyszczenia kot³ów zawieraj¹ce substancje niebezpieczne;421
+10;01;23;B;Uwodnione szlamy z czyszczenia kot³ów inne ni¿ wymienione w 10 01 22;422
+10;01;24;B;Piaski ze z³ó¿ fluidalnych (z wy³¹czeniem 10 01 82);423
+10;01;25;B;Odpady z przechowywania i przygotowania paliw dla opalanych wêglem elektrowni;424
+10;01;26;B;Odpady z uzdatniania wody ch³odz¹cej;425
+10;01;80;B;Mieszanki popio³owo-¿u¿lowe z mokrego odprowadzania odpadów paleniskowych;426
+10;01;81;B;Mikrosfery z popio³ów lotnych;427
+10;01;82;B;Mieszaniny popio³ów lotnych i odpadów sta³ych z wapniowych metod odsiarczania gazów odlotowych (metody suche i pó³suche odsiarczania spalin oraz spalanie w z³o¿u fluidalnym);428
+10;01;99;B;Inne nie wymienione odpady;429
+10;02;;B;Odpady z hutnictwa ¿elaza i stali;430
+10;02;01;B;¯u¿le z procesów wytapiania (wielkopiecowe, stalownicze);431
+10;02;02;B;Nieprzerobione ¿u¿le z innych procesów;432
+10;02;07;N;Odpady sta³e z oczyszczania gazów odlotowych zawieraj¹ce substancje niebezpieczne;433
+10;02;08;B;Odpady sta³e z oczyszczania gazów odlotowych inne ni¿ wymienione w 10 02 07;434
+10;02;10;B;Zgorzelina walcownicza;435
+10;02;11;N;Odpady z uzdatniania wody ch³odz¹cej zawieraj¹ce oleje;436
+10;02;12;B;Odpady z uzdatniania wody ch³odz¹cej inne ni¿ wymienione w 10 02 11;437
+10;02;13;N;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych zawieraj¹ce substancje niebezpieczne;438
+10;02;14;B;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych inne ni¿ wymienione w 10 02 13;439
+10;02;15;B;Inne szlamy i osady pofiltracyjne;440
+10;02;80;B;Zgary z hutnictwa ¿elaza;441
+10;02;81;B;Odpadowy siarczan ¿elazawy;442
+10;02;99;B;Inne nie wymienione odpady;443
+10;03;;B;Odpady z hutnictwa aluminium;444
+10;03;02;B;Odpadowe anody;445
+10;03;04;N;¯u¿le z produkcji pierwotnej;446
+10;03;05;B;Odpady tlenku glinu;447
+10;03;08;N;S³one ¿u¿le z produkcji wtórnej;448
+10;03;09;N;Czarne ko¿uchy ¿u¿lowe z produkcji wtórnej;449
+10;03;15;N;Zgary z wytopu o w³aœciwoœciach palnych lub wydzielaj¹ca w zetkniêciu z wod¹ gazy palne w niebezpiecznych iloœciach;450
+10;03;16;B;Zgary z wytopu inna ni¿ wymieniona w 10 03 15;451
+10;03;17;N;Odpady zawieraj¹ce smo³ê z produkcji anod;452
+10;03;18;B;Odpady zawieraj¹ce wêgiel z produkcji anod inne ni¿ wymienione w 10 03 17;453
+10;03;19;N;Py³y z gazów odlotowych zawieraj¹ce substancje niebezpieczne;454
+10;03;20;B;Py³y z gazów odlotowych inne ni¿ wymienione w 10 03 19;455
+10;03;21;N;Inne cz¹stki sta³e i py³y (³¹cznie z py³ami z m³ynów kulowych) zawieraj¹ce substancje niebezpieczne;456
+10;03;22;B;Inne cz¹stki sta³e i py³y (³¹cznie z py³ami z m³ynów kulowych) inne ni¿ wymienione w 10 03 21;457
+10;03;23;N;Odpady sta³e z oczyszczania gazów odlotowych zawieraj¹ce substancje niebezpieczne;458
+10;03;24;B;Odpady sta³e z oczyszczania gazów odlotowych inne ni¿ wymienione w 10 03 23;459
+10;03;25;N;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych zawieraj¹ce substancje niebezpieczne;460
+10;03;26;B;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych inne ni¿ wymienione w 10 03 25;461
+10;03;27;N;Odpady z uzdatniania wody ch³odz¹cej zawieraj¹ce oleje;462
+10;03;28;B;Odpady z uzdatniania wody ch³odz¹cej inne ni¿ wymienione w 10 03 27;463
+10;03;29;N;Odpady z przetwarzania s³onych ¿u¿li i czarnych ko¿uchów ¿u¿lowych zawieraj¹ce substancje niebezpieczne;464
+10;03;30;B;Odpady z przetwarzania s³onych ¿u¿li i czarnych ko¿uchów ¿u¿lowych inne ni¿ wymienione w 10 03 29;465
+10;03;99;B;Inne nie wymienione odpady;466
+11;;;B;Odpady z chemicznej obróbki i powlekania powierzchni metali oraz innych materia³ów i z procesów hydrometalurgii metali nie¿elaznych;467
+11;01;;B;Odpady z obróbki i powlekania metali oraz innych materia³ów (np. procesów galwanicznych, cynkowania, wytrawiania, fosforanowania, alkalicznego odt³uszczania, anodowania);468
+11;01;05;N;Kwasy trawi¹ce;469
+11;01;06;N;Odpady zawieraj¹ce kwasy inne ni¿ wymienione w 11 01 05;470
+11;01;07;N;Alkalia trawi¹ce;471
+11;01;08;N;Osady i szlamy z fosforanowania;472
+11;01;09;N;Szlamy i osady pofiltracyjne zawieraj¹ce substancje niebezpieczne;473
+11;01;10;B;Szlamy i osady pofiltracyjne inne ni¿ wymienione w 11 01 09;474
+11;01;11;N;Wody pop³uczne zawieraj¹ce substancje niebezpieczne;475
+11;01;12;B;Wody pop³uczne inne ni¿ wymienione w 11 01 11;476
+11;01;13;N;Odpady z odt³uszczania zawieraj¹ce substancje niebezpieczne;477
+11;01;14;B;Odpady z odt³uszczania inne ni¿ wymienione w 11 01 13;478
+11;01;15;N;Odcieki i szlamy z systemów membranowych lub systemów wymiany jonowej zawieraj¹ce substancje niebezpieczne;479
+11;01;16;N;Nasycone lub zu¿yte ¿ywice jonowymienne;480
+11;01;98;N;Inne odpady zawieraj¹ce substancje niebezpieczne;481
+11;01;99;B;Inne nie wymienione odpady;482
+11;02;;B;Odpady i szlamy z hydrometalurgii metali nie¿elaznych;483
+11;02;02;N;Szlamy z hydrometalurgii cynku (w tym jarozyt i getyt);484
+11;02;03;B;Odpady z produkcji anod dla procesów elektrolizy;485
+11;02;05;N;Odpady z hydrometalurgii miedzi zawieraj¹ce substancje niebezpieczne;486
+11;02;06;B;Odpady z hydrometalurgii miedzi inne ni¿ wymienione w 11 02 05;487
+11;02;07;N;Inne odpady zawieraj¹ce substancje niebezpieczne;488
+11;02;99;B;Inne nie wymienione odpady;489
+12;;;B;Odpady z kszta³towania oraz fizycznej i mechanicznej obróbki powierzchni metali i tworzyw sztucznych;490
+12;01;;B;Odpady z kszta³towania oraz fizycznej i mechanicznej obróbki powierzchni metali i tworzyw sztucznych;491
+12;01;01;B;Odpady z toczenia i pi³owania ¿elaza i jego stopów;492
+12;01;02;B;Cz¹stki i py³y ¿elaza oraz jego stopów;493
+12;01;03;B;Odpady z toczenia i pi³owania metali nie¿elaznych;494
+12;01;04;B;Cz¹stki i py³y metali nie¿elaznych;495
+12;01;05;B;Odpady z toczenia i wyg³adzania tworzyw sztucznych;496
+12;01;06;N;Odpadowe oleje mineralne z obróbki metali zawieraj¹ce chlorowce (z wy³¹czeniem emulsji i roztworów);497
+12;01;07;N;Odpadowe oleje mineralne z obróbki metali nie zawieraj¹ce chlorowców (z wy³¹czeniem emulsji i roztworów);498
+12;01;08;N;Odpadowe emulsje i roztwory olejowe z obróbki metali zawieraj¹ce chlorowce;499
+12;01;09;N;Odpadowe emulsje i roztwory z obróbki metali nie zawieraj¹ce chlorowców;500
+12;01;10;N;Syntetyczne oleje z obróbki metali;501
+12;01;12;N;Zu¿yte woski i t³uszcze;502
+12;01;13;B;Odpady spawalnicze;503
+12;01;14;N;Szlamy z obróbki metali zawieraj¹ce substancje niebezpieczne;504
+12;01;15;B;Szlamy z obróbki metali inne ni¿ wymienione w 12 01 14;505
+12;01;16;N;Odpady poszlifierskie zawieraj¹ce substancje niebezpieczne;506
+12;01;17;B;Odpady poszlifierskie inne ni¿ wymienione w 12 01 16;507
+12;01;18;N;Szlamy z obróbki metali zawieraj¹ce oleje (np. szlamy z szlifowania, g³adzenia i pokrywania);508
+12;01;19;N;Oleje z obróbki metali ³atwo ulegaj¹ce biodegradacji;509
+12;01;20;N;Zu¿yte materia³y szlifierskie zawieraj¹ce substancje niebezpieczne;510
+12;01;21;B;Zu¿yte materia³y szlifierskie inne ni¿ wymienione w 12 01 20;511
+12;01;99;B;Inne nie wymienione odpady;512
+12;03;;B;Odpady z odt³uszczania wod¹ i par¹ (z wy³¹czeniem grupy 11);513
+12;03;01;N;Wodne ciecze myj¹ce;514
+12;03;02;N;Odpady z odt³uszczania par¹;515
+13;;;B;Oleje odpadowe i odpady ciek³ych paliw (z wy³¹czeniem olejów jadalnych oraz grup 05, 12 i 19);516
+13;01;;B;Odpadowe oleje hydrauliczne;517
+13;01;01;N;Oleje hydrauliczne zawieraj¹ce PCB;518
+13;01;04;N;Emulsje olejowe zawieraj¹ce zwi¹zki chlorowcoorganiczne;519
+13;01;05;N;Emulsje olejowe nie zawieraj¹ce zwi¹zków chlorowcoorganicznych;520
+13;01;09;N;Mineralne oleje hydrauliczne zawieraj¹ce zwi¹zki chlorowcoorganiczne;521
+13;01;10;N;Mineralne oleje hydrauliczne nie zawieraj¹ce zwi¹zków chlorowcoorganicznych;522
+13;01;11;N;Syntetyczne oleje hydrauliczne;523
+13;01;12;N;Oleje hydrauliczne ³atwo ulegaj¹ce biodegradacji;524
+13;01;13;N;Inne oleje hydrauliczne;525
+13;02;;B;Odpadowe oleje silnikowe, przek³adniowe i smarowe;526
+13;02;04;N;Mineralne oleje silnikowe, przek³adniowe i smarowe zawieraj¹ce zwi¹zki chlorowcoorganiczne;527
+13;02;05;N;Mineralne oleje silnikowe, przek³adniowe i smarowe nie zawieraj¹ce zwi¹zków chlorowcoorganicznych;528
+13;02;06;N;Syntetyczne oleje silnikowe, przek³adniowe i smarowe;529
+13;02;07;N;Oleje silnikowe, przek³adniowe i smarowe ³atwo ulegaj¹ce biodegradacji;530
+13;02;08;N;Inne oleje silnikowe, przek³adniowe i smarowe;531
+13;03;;B;Odpadowe oleje i ciecze stosowane jako elektroizolatory oraz noœniki ciep³a;532
+13;03;01;N;Oleje i ciecze stosowane jako elektroizolatory i noœniki ciep³a zawieraj¹ce PCB;533
+13;03;06;N;Mineralne oleje i ciecze stosowane jako elektroizolatory oraz noœniki ciep³a zawieraj¹ce zwi¹zki chlorowcoorganiczne inne ni¿ wymienione w 13 03 01;534
+13;03;07;N;Mineralne oleje i ciecze stosowane jako elektroizolatory oraz noœniki ciep³a nie zawieraj¹ce zwi¹zków chlorowcoorganicznych;535
+13;03;08;N;Syntetyczne oleje i ciecze stosowane jako elektroizolatory oraz noœniki ciep³a inne ni¿ wymienione w 13 03 01;536
+13;03;09;N;Oleje i ciecze stosowane jako elektroizolatory oraz noœniki ciep³a ³atwo ulegaj¹ce biodegradacji;537
+13;03;10;N;Inne oleje i ciecze stosowane jako elektroizolatory oraz noœniki ciep³a;538
+13;04;;B;Oleje zêzowe;539
+13;04;01;N;Oleje zêzowe ze statków ¿eglugi œródl¹dowej;540
+13;04;02;N;Oleje zêzowe z nabrze¿y portowych;541
+13;04;03;N;Oleje zêzowe ze statków morskich;542
+13;05;;B;Odpady z odwadniania olejów w separatorach;543
+13;05;01;N;Odpady sta³e z piaskowników i z odwadniania olejów w separatorach;544
+13;05;02;N;Szlamy z odwadniania olejów w separatorach;545
+13;05;03;N;Szlamy z kolektorów;546
+13;05;06;N;Olej z odwadniania olejów w separatorach;547
+13;05;07;N;Zaolejona woda z odwadniania olejów w separatorach;548
+13;05;08;N;Mieszanina odpadów z piaskowników i z odwadniania olejów w separatorach;549
+13;08;;B;Odpady olejowe nie ujête w innych podgrupach;550
+13;08;01;N;Olej opa³owy i olej napêdowy;551
+13;08;02;N;Inne emulsje;552
+13;08;80;B;Zaolejone odpady sta³e ze statków;553
+13;08;99;N;Inne nie wymienione odpady;554
+14;;;B;Odpady z rozpuszczalników organicznych, ch³odziw i propelentów (z wy³¹czeniem grup 07 i 08);555
+14;06;;B;Odpady z rozpuszczalników organicznych, ch³odziw i propelentów w pianach lub aerozolach;556
+14;06;01;N;CFC, HCFC, HFC;557
+14;06;02;N;Inne chlorowcoorganiczne rozpuszczalniki i mieszaniny rozpuszczalników;558
+14;06;03;N;Inne rozpuszczalniki i mieszaniny rozpuszczalników;559
+14;06;04;N;Szlamy i odpady sta³e zawieraj¹ce rozpuszczalniki chlorowcoorganiczne;560
+14;06;05;N;Szlamy i odpady sta³e zawieraj¹ce inne rozpuszczalniki;561
+15;;;B;Odpady opakowaniow;562
+15;01;;B;Odpady opakowaniowe (w³¹cznie z selektywnie gromadzonymi komunalnymi odpadami opakowaniowymi;563
+15;01;01;B;Opakowania z papieru i tektury;564
+15;01;02;B;Opakowania z tworzyw sztucznych;565
+15;01;03;B;Opakowania z drewna;566
+15;01;04;B;Opakowania z metali;567
+15;01;05;B;Opakowania wielomateria³owe;568
+15;01;06;B;Zmieszane odpady opakowaniowe;569
+15;01;07;B;Opakowania ze szk³a;570
+15;01;09;B;Opakowania z tekstyliów;571
+15;01;10;N;Opakowania zawieraj¹ce pozosta³oœci substancji niebezpiecznych lub nimi zanieczyszczone (np. œrodkami ochrony roœlin I i II klasy toksycznoœci - bardzo toksyczne i toksyczne);572
+15;01;11;N;Opakowania z metali zawieraj¹ce niebezpieczne porowate elementy wzmocnienia konstrukcyjnego (np. azbest), w³¹cznie z pustymi pojemnikami ciœnieniowymi;573
+15;02;;B;Sorbenty, materia³y filtracyjne, tkaniny do wycierania i ubrania ochronne;574
+15;02;02;N;Sorbenty, materia³y filtracyjne (w tym filtry olejowe nie ujête w innych grupach), tkaniny do wycierania (np. szmaty, œcierki) i ubrania ochronne zanieczyszczone substancjami niebezpiecznymi (np. PCB);575
+15;02;03;B;Sorbenty, materia³y filtracyjne, tkaniny do wycierania (np. szmaty, œcierki) i ubrania ochronne inne ni¿ wymienione w 15 02 02;576
+16;;;B;Odpady nie ujête w innych grupach;577
+16;01;;B;Zu¿yte lub nie nadaj¹ce siê do u¿ytkowania pojazdy (w³¹czaj¹c maszyny pozadrogowe), odpady z demonta¿u, przegl¹du i konserwacji pojazdów (z wy³¹czeniem grup 13 i 14 oraz podgrup 16 06 i 16 08);578
+16;01;03;B;Zu¿yte opony;579
+16;01;04;N;Zu¿yte lub nie nadaj¹ce siê do u¿ytkowania pojazdy;580
+16;01;06;B;Zu¿yte lub nie nadaj¹ce siê do u¿ytkowania pojazdy nie zawieraj¹ce cieczy i innych niebezpiecznych elementów;581
+16;01;07;N;Filtry olejowe;582
+16;01;08;N;Elementy zawieraj¹ce rtêæ;583
+16;01;09;N;Elementy zawieraj¹ce PCB;584
+16;01;10;N;Elementy wybuchowe (np. poduszki powietrzne);585
+16;01;11;N;Ok³adziny hamulcowe zawieraj¹ce azbest;586
+16;01;12;B;Ok³adziny hamulcowe inne ni¿ wymienione w 16 01 11;587
+16;01;13;N;P³yny hamulcowe;588
+16;01;14;N;P³yny zapobiegaj¹ce zamarzaniu zawieraj¹ce niebezpieczne substancje;589
+16;01;15;B;P³yny zapobiegaj¹ce zamarzaniu inne ni¿ wymienione w 16 01 14;590
+16;01;16;B;Zbiorniki na gaz skroplony;591
+16;01;17;B;Metale ¿elazne;592
+16;01;18;B;Metale nie¿elazne;593
+16;01;19;B;Tworzywa sztuczne;594
+16;01;20;B;Szk³o;595
+16;01;21;N;Niebezpieczne elementy inne ni¿ wymienione w 16 01 07 do 16 01 11, 16 01 13 i 16 01 14;596
+16;01;22;B;Inne nie wymienione elementy;597
+16;01;99;B;Inne nie wymienione odpady;598
+16;02;;B;Odpady urz¹dzeñ elektrycznych i elektronicznych;599
+16;02;09;N;Transformatory i kondensatory zawieraj¹ce PCB;600
+16;02;10;N;Zu¿yte urz¹dzenia zawieraj¹ce PCB albo nimi zanieczyszczone inne ni¿ wymienione w 16 02 09;601
+16;02;11;N;Zu¿yte urz¹dzenia zawieraj¹ce freony, HCFC, HFC;602
+16;02;12;N;Zu¿yte urz¹dzenia zawieraj¹ce wolny azbest;603
+16;02;13;N;Zu¿yte urz¹dzenia zawieraj¹ce niebezpieczne elementy (1) inne ni¿ wymienione w 16 02 09 do 16 02 12;604
+16;02;14;B;Zu¿yte urz¹dzenia inne ni¿ wymienione w 16 02 09 do 16 02 13;605
+16;02;15;N;Niebezpieczne elementy lub czêœci sk³adowe usuniête z zu¿ytych urz¹dzeñ;606
+16;02;16;B;Elementy usuniête z zu¿ytych urz¹dzeñ inne ni¿ wymienione w 16 02 15;607
+16;03;;B;Partie produktów nie odpowiadaj¹ce wymaganiom oraz produkty przeterminowane lub nieprzydatne do u¿ytku;608
+16;03;03;N;Nieorganiczne odpady zawieraj¹ce substancje niebezpieczne;609
+16;03;04;B;Nieorganiczne odpady inne ni¿ wymienione w 16 03 03, 16 03 80;610
+16;03;05;N;Organiczne odpady zawieraj¹ce substancje niebezpieczne;611
+16;03;06;B;Organiczne odpady inne ni¿ wymienione w 16 03 05, 16 03 80;612
+16;03;80;B;Produkty spo¿ywcze przeterminowane lub nieprzydatne do spo¿ycia;613
+16;04;;B;Odpady materia³ów wybuchowych;614
+16;04;01;N;Odpadowa amunicja;615
+16;04;02;N;Odpadowe wyroby pirotechniczne (np. ognie sztuczne);616
+16;04;03;N;Inne materia³y wybuchowe;617
+16;05;;B;Gazy w pojemnikach ciœnieniowych i zu¿yte chemikalia;618
+16;05;04;N;Gazy w pojemnikach (w tym halony) zawieraj¹ce substancje niebezpieczne;619
+16;05;05;B;Gazy w pojemnikach inne ni¿ wymienione w 16 05 04;620
+16;05;06;N;Chemikalia laboratoryjne i analityczne (np. odczynniki chemiczne) zawieraj¹ce substancje niebezpieczne, w tym mieszaniny chemikaliów laboratoryjnych i analitycznych;621
+16;05;07;N;Zu¿yte nieorganiczne chemikalia zawieraj¹ce substancje niebezpieczne (np. przeterminowane odczynniki chemiczne);622
+16;05;08;N;Zu¿yte organiczne chemikalia zawieraj¹ce substancje niebezpieczne (np. przeterminowane odczynniki chemiczne);623
+16;05;09;B;Zu¿yte chemikalia inne ni¿ wymienione w 16 05 06, 16 05 07 lub 16 05 08;624
+16;06;;B;Baterie i akumulatory;625
+16;06;01;N;Baterie i akumulatory o³owiowe;626
+16;06;02;N;Baterie i akumulatory niklowo-kadmowe;627
+16;06;03;N;Baterie zawieraj¹ce rtêæ;628
+16;06;04;B;Baterie alkaliczne (z wy³¹czeniem 16 06 03);629
+16;06;05;B;Inne baterie i akumulatory;630
+16;06;06;N;Selektywnie gromadzony elektrolit z baterii i akumulatorów;631
+16;07;;B;Odpady z czyszczenia zbiorników magazynowych, cystern transportowych i beczek (z wyj¹tkiem grup 05 i 13);632
+16;07;08;N;Odpady zawieraj¹ce ropê naftow¹ lub jej produkty;633
+16;07;09;N;Odpady zawieraj¹ce inne substancje niebezpieczne;634
+16;07;99;B;Inne nie wymienione odpady;635
+16;08;;B;Zu¿yte katalizatory;636
+16;08;01;B;Zu¿yte katalizatory zawieraj¹ce z³oto, srebro, ren, rod, pallad, iryd lub platynê (z wy³¹czeniem 16 08 07);637
+16;08;02;N;Zu¿yte katalizatory zawieraj¹ce niebezpieczne metale przejœciowe (2) lub ich niebezpieczne zwi¹zki;638
+16;08;03;B;Zu¿yte katalizatory zawieraj¹ce metale przejœciowe lub ich zwi¹zki inne ni¿ wymienione w 16 08 02;639
+16;08;04;B;Zu¿yte katalizatory stosowane do katalitycznego krakingu w procesie fluidyzacyjnym (z wy³¹czeniem 16 08 07);640
+16;08;05;N;Zu¿yte katalizatory zawieraj¹ce kwas fosforowy;641
+16;08;06;N;Zu¿yte ciecze stosowane jako katalizatory;642
+16;08;07;N;Zu¿yte katalizatory zanieczyszczone substancjami niebezpiecznymi;643
+16;09;;B;Substancje utleniaj¹ce;644
+16;09;01;N;Nadmanganiany (np. nadmanganian potasowy);645
+16;09;02;N;Chromiany (np. chromian potasowy, dwuchromian sodowy lub potasowy);646
+16;09;03;N;Nadtlenki (np. nadtlenek wodoru);647
+16;09;04;N;Inne nie wymienione substancje utleniaj¹ce;648
+16;10;;B;Uwodnione odpady ciek³e przeznaczone do odzysku lub unieszkodliwiania poza miejscami ich powstawania;649
+16;10;01;N;Uwodnione odpady ciek³e zawieraj¹ce substancje niebezpieczne;650
+16;10;02;B;Uwodnione odpady ciek³e inne ni¿ wymienione w 16 10 01;651
+16;10;03;N;Stê¿one uwodnione odpady ciek³e (np. koncentraty) zawieraj¹ce substancje niebezpieczne;652
+16;10;04;B;Stê¿one uwodnione odpady ciek³e (np. koncentraty) inne ni¿ wymienione w 16 10 03;653
+16;11;;B;Odpady z ok³adzin piecowych i materia³y ogniotrwa³e;654
+16;11;01;N;Wêglopochodne ok³adziny piecowe i materia³y ogniotrwa³e z procesów metalurgicznych zawieraj¹ce substancje niebezpieczne;655
+16;11;02;B;Wêglopochodne ok³adziny piecowe i materia³y ogniotrwa³e z procesów metalurgicznych inne ni¿ wymienione w 16 11 01;656
+16;11;03;N;Inne ok³adziny piecowe i materia³y ogniotrwa³e z procesów metalurgicznych zawieraj¹ce substancje niebezpieczne;657
+16;11;04;B;Ok³adziny piecowe i materia³y ogniotrwa³e z procesów metalurgicznych inne ni¿ wymienione w 16 11 03;658
+16;11;05;N;Ok³adziny piecowe i materia³y ogniotrwa³e z procesów niemetalurgicznych zawieraj¹ce substancje niebezpieczne;659
+16;11;06;B;Ok³adziny piecowe i materia³y ogniotrwa³e z procesów niemetalurgicznych inne ni¿ wymienione w 16 11 05;660
+16;80;;B;Odpady ró¿ne;661
+16;80;01;B;Magnetyczne i optyczne noœniki informacji;662
+16;81;;B;Odpady powsta³e w wyniku wypadków i zdarzeñ losowych;663
+16;81;01;N;Odpady wykazuj¹ce w³aœciwoœci niebezpieczne;664
+16;81;02;B;Odpady inne ni¿ wymienione w 16 81 01;665
+16;82;;B;Odpady powsta³e w wyniku klêsk ¿ywio³owych;666
+16;82;01;N;Odpady wykazuj¹ce w³aœciwoœci niebezpieczne;667
+16;82;02;B;Odpady inne ni¿ wymienione w 16 82 01;668
+17;;;B;Odpady z budowy, remontów i demonta¿u obiektów budowlanych oraz infrastruktury drogowej (w³¹czaj¹c glebê i ziemiê z terenów zanieczyszczonych);669
+17;01;;B;Odpady materia³ów i elementów budowlanych oraz infrastruktury drogowej (np. beton, ceg³y, p³yty, ceramika);670
+17;01;01;B;Odpady betonu oraz gruz betonowy z rozbiórek i remontów;671
+17;01;02;B;Gruz ceglany;672
+17;01;03;B;Odpady innych materia³ów ceramicznych i elementów wyposa¿enia;673
+17;01;06;N;Zmieszane lub wysegregowane odpady z betonu, gruzu ceglanego, odpadowych materia³ów ceramicznych i elementów wyposa¿enia zawieraj¹ce substancje niebezpieczne;674
+17;01;07;B;Zmieszane odpady z betonu, gruzu ceglanego, odpadowych materia³ów ceramicznych i elementów wyposa¿enia inne ni¿ wymienione w 17 01 06;675
+17;01;80;B;Usuniête tynki, tapety, okleiny itp.;676
+17;01;81;B;Odpady z remontów i przebudowy dróg;677
+17;01;82;B;Inne nie wymienione odpady;678
+17;02;;B;Odpady drewna, szk³a i tworzyw sztucznych;679
+17;02;01;B;Drewno;680
+17;02;02;B;Szk³o;681
+17;02;03;B;Tworzywa sztuczne;682
+17;02;04;N;Odpady drewna, szk³a i tworzyw sztucznych zawieraj¹ce lub zanieczyszczone substancjami niebezpiecznymi (podk³ady kolejowe);683
+17;03;;B;Odpady asfaltów, smó³ i produktów smo³owych;684
+17;03;01;N;Asfalt zawieraj¹cy smo³ê;685
+17;03;02;B;Asfalt inny ni¿ wymieniony w 17 03 01;686
+17;03;03;N;Smo³a i produkty smo³owe;687
+17;03;80;B;Odpadowa papa;688
+17;04;;B;Odpady i z³omy metaliczne oraz stopów metali;689
+17;04;01;B;MiedŸ, br¹z, mosi¹dz;690
+17;04;02;B;Aluminium;691
+17;04;03;B;O³ów;692
+17;04;04;B;Cynk;693
+17;04;05;B;¯elazo i stal;694
+17;04;06;B;Cyna;695
+17;04;07;B;Mieszaniny metali;696
+17;04;09;N;Odpady metali zanieczyszczone substancjami niebezpiecznymi;697
+17;04;10;N;Kable zawieraj¹ce ropê naftow¹, smo³ê i inne substancje niebezpieczne;698
+17;04;11;B;Kable inne ni¿ wymienione w 17 04 10;699
+17;05;;B;Gleba i ziemia (w³¹czaj¹c glebê i ziemiê z terenów zanieczyszczonych oraz urobek z pog³êbiania);700
+17;05;03;N;Gleba i ziemia, w tym kamienie, zawieraj¹ce substancje niebezpieczne (np. PCB);701
+17;05;04;B;Gleba i ziemia, w tym kamienie, inne ni¿ wymienione w 17 05 03;702
+17;05;05;N;Urobek z pog³êbiania zawieraj¹cy lub zanieczyszczony substancjami niebezpiecznymi;703
+17;05;06;B;Urobek z pog³êbiania inny ni¿ wymieniony w 17 05 05;704
+17;05;07;N;T³uczeñ torowy (kruszywo) zawieraj¹cy substancje niebezpieczne;705
+17;05;08;B;T³uczeñ torowy (kruszywo) inny ni¿ wymieniony w 17 05 07;706
+17;06;;B;Materia³y izolacyjne oraz materia³y konstrukcyjne zawieraj¹ce azbest;707
+17;06;01;N;Materia³y izolacyjne zawieraj¹ce azbest;708
+17;06;03;N;Inne materia³y izolacyjne zawieraj¹ce substancje niebezpieczne;709
+17;06;04;B;Materia³y izolacyjne inne ni¿ wymienione w 17 06 01 i 17 06 03;710
+17;06;05;N;Materia³y konstrukcyjne zawieraj¹ce azbest;711
+17;08;;B;Materia³y konstrukcyjne zawieraj¹ce gips;712
+17;08;01;N;Materia³y konstrukcyjne zawieraj¹ce gips zanieczyszczone substancjami niebezpiecznymi;713
+17;08;02;B;Materia³y konstrukcyjne zawieraj¹ce gips inne ni¿ wymienione w 17 08 01;714
+17;09;;B;Inne odpady z budowy, remontów i demonta¿u;715
+17;09;01;N;Odpady z budowy, remontów i demonta¿u zawieraj¹ce rtêæ;716
+17;09;02;N;Odpady z budowy, remontów i demonta¿u zawieraj¹ce PCB (np. substancje i przedmioty zawieraj¹ce PCB: szczeliwa, wyk³adziny pod³ogowe zawieraj¹ce ¿ywice, szczelne zespo³y okienne, kondensatory);717
+17;09;03;N;Inne odpady z budowy, remontów i demonta¿u (w tym odpady zmieszane) zawieraj¹ce substancje niebezpieczne;718
+17;09;04;B;Zmieszane odpady z budowy, remontów i demonta¿u inne ni¿ wymienione w 17 09 01, 17 09 02 i 17 09 03;719
+18;;;B;Odpady medyczne i weterynaryjne;720
+18;01;;B;Odpady z diagnozowania, leczenia i profilaktyki medycznej;721
+18;01;01;B;Narzêdzia chirurgiczne i zabiegowe oraz ich resztki (z wy³¹czeniem 18 01 03);722
+18;01;02;N;Czêœci cia³a i organy oraz pojemniki na krew i konserwanty s³u¿¹ce do jej przechowywania (z wy³¹czeniem 18 01 03);723
+18;01;03;N;Inne odpady, które zawieraj¹ ¿ywe drobnoustroje chorobotwórcze lub ich toksyny oraz inne formy zdolne do przeniesienia materia³u genetycznego, o których wiadomo lub co do których istniej¹ wiarygodne podstawy do s¹dzenia, ¿e wywo³uj¹ choroby u ludzi i zwierz¹t (np. zainfekowane pieluchomajtki, podpaski, podk³ady), z wy³¹czeniem 18 01 80 i 18 01 82;724
+18;01;04;B;Inne odpady ni¿ wymienione w 18 01 03;725
+18;01;06;N;Chemikalia, w tym odczynniki chemiczne, zawieraj¹ce substancje niebezpieczne;726
+18;01;07;B;Chemikalia, w tym odczynniki chemiczne, inne ni¿ wymienione w 18 01 06;727
+18;01;08;N;Leki cytotoksyczne i cytostatyczne;728
+18;01;09;B;Leki inne ni¿ wymienione w 18 01 08;729
+18;01;10;N;Odpady amalgamatu dentystycznego;730
+18;01;80;N;Zu¿yte k¹piele lecznicze aktywne biologicznie o w³aœciwoœciach zakaŸnych;731
+18;01;81;B;Zu¿yte k¹piele lecznicze aktywne biologicznie inne ni¿ wymienione w 18 01 80;732
+18;01;82;N;Pozosta³oœci z ¿ywienia pacjentów oddzia³ów zakaŸnych;733
+18;02;;B;Odpady z diagnozowania, leczenia i profilaktyki weterynaryjnej;734
+18;02;01;B;Narzêdzia chirurgiczne i zabiegowe oraz ich resztki (z wy³¹czeniem 18 02 02);735
+18;02;02;N;Inne odpady, które zawieraj¹ ¿ywe drobnoustroje chorobotwórcze lub ich toksyny oraz inne formy zdolne do przeniesienia materia³u genetycznego, o których wiadomo lub co do których istniej¹ wiarygodne podstawy do s¹dzenia, ¿e wywo³uj¹ choroby u ludzi i zwie;736
+18;02;03;B;Inne odpady ni¿ wymienione w 18 02 02;737
+18;02;05;N;Chemikalia, w tym odczynniki chemiczne, zawieraj¹ce substancje niebezpieczne;738
+18;02;06;B;Chemikalia, w tym odczynniki chemiczne, inne ni¿ wymienione w 18 02 05;739
+18;02;07;N;Leki cytotoksyczne i cytostatyczne;740
+18;02;08;B;Leki inne ni¿ wymienione w 18 02 07;741
+19;;;B;Odpady z instalacji i urz¹dzeñ s³u¿¹cych zagospodarowaniu odpadów, z oczyszczalni œcieków oraz z uzdatniania wody pitnej i wody do celów przemys³owych;742
+19;01;;B;Odpady z termicznego przekszta³cania odpadów;743
+19;01;02;B;Z³om ¿elazny usuniêty z popio³ów paleniskowych;744
+19;01;05;N;Osady filtracyjne (np. placek filtracyjny) z oczyszczania gazów odlotowych;745
+19;01;06;N;Szlamy i inne odpady uwodnione z oczyszczania gazów odlotowych;746
+19;01;07;N;Odpady sta³e z oczyszczania gazów odlotowych;747
+19;01;10;N;Zu¿yty wêgiel aktywny z oczyszczania gazów odlotowych;748
+19;01;11;N;¯u¿le i popio³y paleniskowe zawieraj¹ce substancje niebezpieczne;749
+19;01;12;B;¯u¿le i popio³y paleniskowe inne ni¿ wymienione w 19 01 11;750
+19;01;13;N;Popio³y lotne zawieraj¹ce substancje niebezpieczne;751
+19;01;14;B;Popio³y lotne inne ni¿ wymienione w 19 01 13;752
+19;01;15;N;Py³y z kot³ów zawieraj¹ce substancje niebezpieczne;753
+19;01;16;B;Py³y z kot³ów inne ni¿ wymienione w 19 01 15;754
+19;01;17;N;Odpady z pirolizy odpadów zawieraj¹ce substancje niebezpieczne;755
+19;01;18;B;Odpady z pirolizy odpadów inne ni¿ wymienione w 19 01 17;756
+19;01;19;B;Piaski ze z³ó¿ fluidalnych;757
+19;01;99;B;Inne nie wymienione odpady;758
+19;02;;B;Odpady z fizykochemicznej przeróbki odpadów (w tym usuwanie chromu, usuwanie cyjanków, neutralizacja);759
+19;02;03;B;Wstêpnie przemieszane odpady sk³adaj¹ce siê wy³¹cznie z odpadów innych ni¿ niebezpieczne;760
+19;02;04;N;Wstêpnie przemieszane odpady sk³adaj¹ce siê z co najmniej z jednego rodzaju odpadów niebezpiecznych;761
+19;02;05;N;Szlamy z fizykochemicznej przeróbki odpadów zawieraj¹ce substancje niebezpieczne;762
+19;02;06;B;Szlamy z fizykochemicznej przeróbki odpadów inne ni¿ wymienione w 19 02 05;763
+19;02;07;N;Oleje i koncentraty z separacji;764
+19;02;08;N;Ciek³e odpady palne zawieraj¹ce substancje niebezpieczne;765
+19;02;09;N;Sta³e odpady palne zawieraj¹ce substancje niebezpieczne;766
+19;02;10;B;Odpady palne inne ni¿ wymienione w 19 02 08 lub 19 02 09;767
+19;02;11;N;Inne odpady zawieraj¹ce substancje niebezpieczne;768
+19;02;99;B;Inne nie wymienione odpady;769
+19;03;;B;Odpady stabilizowane lub zestalone (3);770
+19;03;04;N;Odpady niebezpieczne czêœciowo (4) stabilizowane;771
+19;03;05;B;Odpady stabilizowane inne ni¿ wymienione w 19 03 04;772
+19;03;06;N;Odpady niebezpieczne zestalone;773
+19;03;07;B;Odpady zestalone inne ni¿ wymienione w 19 03 06;774
+19;04;;B;Odpady zeszklone i z procesów zeszkliwiania;775
+19;04;01;B;Zeszklone odpady;776
+19;04;02;N;Popio³y lotne i inne odpady z oczyszczania gazów odlotowych;777
+19;04;03;N;Nie zeszklona faza sta³a;778
+19;04;04;B;Ciek³e odpady z procesów zeszkliwiania;779
+19;05;;B;Odpady z tlenowego rozk³adu odpadów sta³ych (kompostowania);780
+19;05;01;B;Nie przekompostowane frakcje odpadów komunalnych i podobnych;781
+19;05;02;B;Nie przekompostowane frakcje odpadów pochodzenia zwierzêcego i roœlinnego;782
+19;05;03;B;Kompost nie odpowiadaj¹cy wymaganiom (nie nadaj¹cy siê do wykorzystania);783
+19;05;99;B;Inne nie wymienione odpady;784
+19;06;;B;Odpady z beztlenowego rozk³adu odpadów;785
+19;06;03;B;Ciecze z beztlenowego rozk³adu odpadów komunalnych;786
+19;06;04;B;Przefermentowane odpady z beztlenowego rozk³adu odpadów komunalnych;787
+19;06;05;B;Ciecze z beztlenowego rozk³adu odpadów zwierzêcych i roœlinnych;788
+19;06;06;B;Przefermentowane odpady z beztlenowego rozk³adu odpadów zwierzêcych i roœlinnych;789
+19;06;99;B;Inne nie wymienione odpady;790
+19;08;;B;Odpady z oczyszczalni œcieków nie ujête w innych grupach;791
+19;08;01;B;Skratki;792
+19;08;02;B;Zawartoœæ piaskowników;793
+19;08;05;B;Ustabilizowane komunalne osady œciekowe;794
+19;08;06;N;Nasycone lub zu¿yte ¿ywice jonowymienne;795
+19;08;07;N;Roztwory i szlamy z regeneracji wymienników jonitowych;796
+19;08;08;N;Odpady z systemów membranowych zawieraj¹ce metale ciê¿kie;797
+19;08;09;B;T³uszcze i mieszaniny olejów z separacji olej/woda zawieraj¹ce wy³¹cznie oleje jadalne i t³uszcze;798
+19;08;10;N;T³uszcze i mieszaniny olejów z separacji olej/woda inne ni¿ wymienione w 19 08 09;799
+19;08;11;N;Szlamy zawieraj¹ce substancje niebezpieczne z biologicznego oczyszczania œcieków przemys³owych;800
+19;08;12;B;Szlamy z biologicznego oczyszczania œcieków przemys³owych inne ni¿ wymienione w 19 08 11;801
+19;08;13;N;Szlamy zawieraj¹ce substancje niebezpieczne z innego ni¿ biologiczne oczyszczania œcieków przemys³owych;802
+19;08;14;B;Szlamy z innego ni¿ biologiczne oczyszczania œcieków przemys³owych inne ni¿ wymienione w 19 08 13;803
+19;08;99;B;Inne nie wymienione odpady;804
+19;09;;B;Odpady z uzdatniania wody pitnej i wody do celów przemys³owych;805
+19;09;01;B;Odpady sta³e ze wstêpnej filtracji i skratki;806
+19;09;02;B;Osady z klarowania wody;807
+19;09;03;B;Osady z dekarbonizacji wody;808
+19;09;04;B;Zu¿yty wêgiel aktywny;809
+19;09;05;B;Nasycone lub zu¿yte ¿ywice jonowymienne;810
+19;09;06;B;Roztwory i szlamy z regeneracji wymienników jonitowych;811
+19;09;99;B;Inne nie wymienione odpady;812
+19;10;;B;Odpady z rozdrabniania odpadów zawieraj¹cych metale;813
+19;10;01;B;Odpady ¿elaza i stali;814
+19;10;02;B;Odpady metali nie¿elaznych;815
+19;10;03;N;Lekka frakcja i py³y zawieraj¹ce substancje niebezpieczne;816
+19;10;04;B;Lekka frakcja i py³y inne ni¿ wymienione w 19 10 03;817
+19;10;05;N;Inne frakcje zawieraj¹ce substancje niebezpieczne;818
+19;10;06;B;Inne frakcje ni¿ wymienione w 19 10 05;819
+19;11;;B;Odpady z regeneracji olejów;820
+19;11;01;N;Zu¿yte filtry i³owe;821
+19;11;02;N;Kwaœne smo³y;822
+19;11;03;N;Uwodnione odpady ciek³e;823
+19;11;04;N;Alkaliczne odpady z oczyszczania paliw;824
+19;11;05;N;Osady z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;825
+19;11;06;B;Osady z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 19 11 05;826
+19;11;07;N;Odpady z oczyszczania gazów odlotowych;827
+19;11;99;B;Inne nie wymienione odpady;828
+19;12;;B;Odpady z mechanicznej obróbki odpadów (np. obróbki rêcznej, sortowania, zgniatania, granulowania) nie ujête w innych grupach;829
+19;12;01;B;Papier i tektura;830
+19;12;02;B;Metale ¿elazne;831
+19;12;03;B;Metale nie¿elazne;832
+19;12;04;B;Tworzywa sztuczne i guma;833
+19;12;05;B;Szk³o;834
+19;12;06;N;Drewno zawieraj¹ce substancje niebezpieczne;835
+19;12;07;B;Drewno inne ni¿ wymienione w 19 12 06;836
+19;12;08;B;Tekstylia;837
+19;12;09;B;Minera³y (np. piasek, kamienie);838
+19;12;10;B;Odpady palne (paliwo alternatywne);839
+19;12;11;N;Inne odpady (w tym zmieszane substancje i przedmioty) z mechanicznej obróbki odpadów zawieraj¹ce substancje niebezpieczne;840
+19;12;12;B;Inne odpady (w tym zmieszane substancje i przedmioty) z mechanicznej obróbki odpadów inne ni¿ wymienione w 19 12 11;841
+19;13;;B;Odpady z oczyszczania gleby, ziemi i wód podziemnych;842
+19;13;01;N;Odpady sta³e z oczyszczania gleby i ziemi zawieraj¹ce substancje niebezpieczne;843
+19;13;02;B;Odpady sta³e z oczyszczania gleby i ziemi inne ni¿ wymienione w 19 13 01;844
+19;13;03;N;Szlamy z oczyszczania gleby i ziemi zawieraj¹ce substancje niebezpieczne;845
+19;13;04;B;Szlamy z oczyszczania gleby i ziemi inne ni¿ wymienione w 19 13 03;846
+19;13;05;N;Szlamy z oczyszczania wód podziemnych zawieraj¹ce substancje niebezpieczne;847
+19;13;06;B;Szlamy z oczyszczania wód podziemnych inne ni¿ wymienione w 19 13 05;848
+19;13;07;N;Odpady ciek³e i stê¿one uwodnione odpady ciek³e (np. koncentraty) z oczyszczania wód podziemnych zawieraj¹ce substancje niebezpieczne;849
+19;13;08;B;Odpady ciek³e i stê¿one uwodnione odpady ciek³e (np. koncentraty) z oczyszczania wód podziemnych inne ni¿ wymienione w 19 13 07;850
+19;80;;B;Odpady z unieszkodliwiania odpadów medycznych i weterynaryjnych nie ujête w innych podgrupach;851
+19;80;01;B;Odpady po autoklawowaniu odpadów medycznych i weterynaryjnych;852
+20;;;B;Odpady komunalne ³¹cznie z frakcjami gromadzonymi selektywnie;853
+20;01;;B;Odpady komunalne segregowane i gromadzone selektywnie (z wy³¹czeniem 15 01);854
+20;01;01;B;Papier i tektura;855
+20;01;02;B;Szk³o;856
+20;01;08;B;Odpady kuchenne ulegaj¹ce biodegradacji;857
+20;01;10;B;Odzie¿;858
+20;01;11;B;Tekstylia;859
+20;01;13;N;Rozpuszczalniki;860
+20;01;14;N;Kwasy;861
+20;01;15;N;Alkalia;862
+20;01;17;N;Odczynniki fotograficzne;863
+20;01;19;N;Œrodki ochrony roœlin I i II klast toksycznoœci (bardzo toksyczne i toksyczne np. herbicydy, insektycydy);864
+20;01;21;N;Lampy fluorescencyjne i inne odpady zawieraj¹ce rtêæ;865
+20;01;23;N;Urz¹dzenia zawieraj¹ce freony;866
+20;01;25;B;Oleje i t³uszcze jadalne;867
+20;01;26;N;Oleje i t³uszcze inne ni¿ wymienione w 20 01 25;868
+20;01;27;N;Farby, tusze, farby drukarskie, kleje, lepiszcze i ¿ywice zawieraj¹ce substancje niebezpieczne;869
+20;01;28;B;Farby, tusze, farby drukarskie, kleje, lepiszcze i ¿ywice inne ni¿ wymienione w 20 01 27;870
+20;01;29;N;Detergenty zawieraj¹ce substancje niebezpieczne;871
+20;01;30;B;Detergenty inne ni¿ wymienione w 20 01 29;872
+20;01;31;N;Leki cytotoksyczne i cytostatyczne;873
+20;01;32;B;Leki inne ni¿ wymienione w 20 01 31;874
+20;01;33;N;Baterie i akumulatory ³¹cznie z bateriami i akumulatorami wymienionymi w 16 06 01, 16 06 02 lub 16 06 03 oraz nie sortowane baterie i akumulatory zawieraj¹ce te baterie;875
+20;01;34;B;Baterie i akumulatory inne ni¿ wymienione w 20 01 33;876
+20;01;35;N;Zu¿yte urz¹dzenia elektryczne i elektroniczne inne ni¿ wymienione w 20 01 21 i 20 01 23 zawieraj¹ce niebezpieczne sk³adniki (1);877
+20;01;36;B;Zu¿yte urz¹dzenia elektryczne i elektroniczne inne ni¿ wymienione w 20 01 21, 20 01 23 i 20 01 35;878
+20;01;37;N;Drewno zawieraj¹ce substancje niebezpieczne;879
+20;01;38;B;Drewno inne ni¿ wymienione w 20 01 37;880
+20;01;39;B;Tworzywa sztuczne;881
+20;01;40;B;Metale;882
+20;01;41;B;Odpady zmiotek wentylacyjnych;883
+20;01;80;B;Œrodki ochrony roœlin inne ni¿ wymienione w 20 01 19;884
+20;01;99;B;Inne nie wymienione frakcje zbierane w sposób selektywny;885
+20;02;;B;Odpady z ogrodów i parków (w tym z cmentarzy);886
+20;02;01;B;Odpady ulegaj¹ce biodegradacji;887
+20;02;02;B;Gleba i ziemia, w tym kamienie;888
+20;02;03;B;Inne odpady nie ulegaj¹ce biodegradacji;889
+20;03;;B;Inne odpady komunalne;890
+20;03;01;B;Nie segregowane (zmieszane) odpady komunalne;891
+20;03;02;B;Odpady z targowisk;892
+20;03;03;B;Odpady z czyszczenia ulic i placów;893
+20;03;04;B;Szlamy ze zbiorników bezodp³ywowych s³u¿¹cych do gromadzenia nieczystoœci;894
+20;03;06;B;Odpady ze studzienek kanalizacyjnych;895
+20;03;07;B;Odpady wielkogabarytowe;896
+20;03;99;B;Odpady komunalne nie wymienione w innych podgrupach;897
+13;07;03;N;INNE PALIWA (W£¥CZNIE Z MIESZANINAMI);898
+13;01;07;N;OLEJ OPA£OWY I OLEJ NAPÊDOWY;899
+13;07;01;N;OJEJ OPA£OWY I OLEJ NAPÊDOWY;900
+10;08;10;N;zgary z wytopu o w³aœciwoœciach palnych lub wydzielaj¹ce w zetkniêciu z wod¹ gazy palne w niebezpiecznych iloœciach;901
+10;10;08;B;RDZENIE I FORMY ODLEWNICZE PO PROCESIE ODLEWANIA INNE NI¯ WYMIENIONE W 10 10 07;902
+10;05;04;B;PY£ GRAFITOWY;903
+13;07;02;N;BENZYNA;904
+11;05;04;N;ZUZYTY TOPNIK;905
+10;11;03;B;ODPADY W£ÓKNA SZKLANEGO;906
+11;05;99;B;INNE NIEWYMIENIONE ODPADY;907
+11;05;03;N;ODPADY Z OCZYSZCZANIA GAZÓW ODLOTOWYCH;908
+55;55;55;N;Odpady Niebezpieczne (ró¿ne kod wewnêtrzny);909
+66;66;66;B;Odpady inne ni¿ niebezpieczne (kod wewnêtrzny);910
+10;13;82;B;WYBRAKOWANE WYROBY;911
+10;12;09;N;Odpady sta³e z oczyszczania gazów odlotowychzawieraj¹ce substancje niebezpieczne;912
+10;10;12;B;Inne cz¹steczki sta³e ni¿ wymienione w 10 10 11;913
+10;13;99;B;Inne niewymienione odpady;914
+10;04;01;N;¯u¿le z produkcji pierwotnej i wtórnej;915
+10;04;02;N;Zgary z produkcji pierwotnej i wtórnej;916
+10;04;03;N;Wapno zawieraj¹ce zwi¹zki arsenu(arsenian wapniowy);917
+10;04;04;N;Py³y z gazów odlotowych;918
+10;04;05;N;Inne cz¹stki i py³y;919
+10;04;06;N;Odpady sta³e z oczyszczania gazów odlotowych;920
+10;04;07;N;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych;921
+10;04;09;N;Odpady z uzdatniania wody ch³odz¹cej zawieraj¹ce oleje;922
+10;04;10;B;Odpady z uzdatniania wody ch³odz¹cej inne ni¿ wymienione w 10 04 09;923
+10;04;99;B;Inne niewymienione odpady;924
+10;05;01;B;¯u¿le z produkcji pierwotnej i wtórnej(z wy³¹czeniem 10 05 80);925
+10;05;03;N;Py³y z gazów odlotowych;926
+10;05;05;N;Odpady sta³e z oczyszczania gazów odlotowych;927
+10;05;06;N;Szlamy  i osady pofiltracyjne z oczyszczania gazów odlotowych;928
+10;05;08;N;Odpady z uzdatniania wody ch³odz¹cej zawieraj¹ce oleje;929
+10;05;09;B;Odpady z uzdatniania wody ch³odz¹cej inne ni¿ wymienione w 10 05 08;930
+10;05;10;N;Zgary z wytopu o w³aœciwoœciach palnych lub wydzielaj¹ce w zetkniêciu z wod¹ gazy palne w niebezpiecznych iloœciach;931
+10;05;11;B;Zgary inne ni¿ wymienione w 10 05 10;932
+10;05;80;B;¯u¿le granulowane z pieców szybowych oraz ¿u¿le z pieców obrotowych;933
+10;05;99;B;Inne niewymienione odpady;934
+10;06;01;B;¯u¿le z produkcji pierwotnej i wtórnej;935
+10;06;02;B;Zgary z produkcji pierotnej i wtórnej;936
+10;06;03;N;Py³y z gazów odlotowych;937
+10;06;04;B;Inne czastki i py³y;938
+10;06;06;N;Odpady sta³e z oczyszczania gazów odlotowych;939
+10;06;07;N;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych;940
+10;06;09;N;Odpady z uzdatniania wody ch³odz¹cej zawieraj¹ce oleje;941
+10;06;10;B;Odpady z uzdatniania wody ch³odz¹cej inne ni¿ wymienione w 10 06 09;942
+10;06;99;B;Inne niewymienione odpady;943
+10;07;01;B;¯u¿le z produkcji pierwotnej i wtórnej;944
+10;07;02;B;Zgary z produkcji pierwotnej i wtórnej;945
+10;07;03;B;Odpady sta³e z oczyszczania gazów odlotowych;946
+10;07;04;B;Inne cz¹stki i py³y;947
+10;07;05;B;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych;948
+10;07;07;N;Odpady z uzdatniania wody ch³odz¹cej zawieraj¹ce oleje;949
+10;07;08;B;Odpady z uzdatniania wody ch³odz¹cej inne ni¿ wymienione w 10 07 07;950
+10;07;99;B;Inne niewymienione odpady;951
+10;08;04;B;Cz¹stki i py³y;952
+10;08;08;N;S³one ¿u¿le z produkcji pierwotnej i wtórnej;953
+10;08;09;B;Inne ¿u¿le;954
+10;08;11;B;Zgary inne ni¿ wymienione w 10 08 10;955
+10;08;12;N;Odpady zawieraj¹ce smo³ê z produkcji anod;956
+10;08;13;B;Odpady zawieraj¹ce wêgiel z produkcji anod inne ni¿ wymienione w 10 08 12;957
+10;08;14;B;Odpadowe anody;958
+10;08;15;N;Py³y z gazów odlotowych zawieraj¹ce substancje niebezpieczne;959
+10;08;16;B;Py³y z gazów odlotowych inne ni¿ wymienione w 10 08 15;960
+10;08;17;N;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych zawieraj¹ce substancje niebezpieczne;961
+10;08;18;B;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych inne ni¿ wymienione w 10 08 17;962
+10;08;19;N;Odpady z uzdatniania wody ch³odz¹cej zawieraj¹ce oleje;963
+10;08;20;B;Odpady z uzdatniania wody ch³odz¹cej inne ni¿ wymienione w 10 08 19;964
+10;08;99;B;Inne niewymienione odpady;965
+10;09;03;B;¯u¿le odlewnicze;966
+10;09;05;N;Rdzenie i formy odlewnicze przed procesem odlewania zawieraj¹ce substancje niebezpieczne;967
+10;09;07;N;Rdzenie i formy odlewnicze po procesie odlewania zawieraj¹ce substancje niebezpieczne;968
+10;09;06;B;Rdzenie i formy odlewnicze przed procesem odlewania inne ni¿ wymienione w 10 09 05;969
+10;09;08;B;Rdzenie i formy odlewnicze po procesie odlewania inne ni¿ wymienione w 10 09 07;970
+10;09;09;N;Py³y z gazów odlotowych zawieraj¹ce substancje niebezpieczne;971
+10;09;10;B;Py³y z gazów odlotowych inne ni¿ wymienione w 10 09 09;972
+10;09;11;N;Inne cz¹stki sta³e zawieraj¹ce substancje niebezpieczne;973
+10;09;12;B;Inne cz¹stki sta³e ni¿ wymienione w 10 09 11;974
+10;09;13;N;Odpadowe œrodki wi¹¿¹ce zawieraj¹ce substancje niebezpieczne;975
+10;09;14;B;Odpadowe œrodki wi¹¿¹ce inne ni¿ wymienione w 10 09 13;976
+10;09;15;N;Odpady œrodków do wykrywania pêkniêæ odlewów;977
+10;09;16;B;Odpady œrodków do wykrywania pêkniêæ odlewów inne ni¿ wymienione w 10 09 15;978
+10;09;80;B;Wybrakowane wyroby ¿eliwne;979
+10;09;99;B;Inne niewymienione odpady;980
+10;10;03;B;Zgary i ¿u¿le odlewnicze;981
+10;10;05;N;Rdzenie i formy odlewnicze przed procesem odlewania zawieraj¹ce substancje niebezpieczne;982
+10;10;06;B;Rdzenie i formy odlewnicze przed procesem odlewania inne ni¿ wymienione w 10 10 05;983
+10;10;07;N;Rdzenie i formy odlewnicze po procesie odlewania zawieraj¹ce substancje niebezpieczne;984
+10;10;09;N;Py³y z gazów odlotowych zawieraj¹ce substancje niebezpieczne;985
+10;10;11;N;Inne cz¹stki sta³e zawieraj¹ce substancje niebezpieczne;986
+10;10;10;B;Py³y z gazów odlotowych inne ni¿ wymienione w 10 10 09;987
+10;10;13;N;Odpadowe œrodki wi¹¿¹ce zawieraj¹ce substancje niebezpieczne;988
+10;10;14;B;Odpadowe œrodki wi¹¿¹ce inne ni¿ wymienione 10 10 13;989
+10;10;15;N;Odpady œrodków do wykrywania pêkniêæ odlewów;990
+10;10;16;B;Odpady œrodków do wykrywania pêkniêæ odlewów inne ni¿ wymienione w 10 10 15;991
+10;10;99;B;Inne niewymienione odpady;992
+10;11;05;B;Cz¹stki i py³y;993
+10;11;09;N;Odpady z przygotowania mas wsadowych do obróbki termicznej zawieraj¹ce substancje niebezpieczne;994
+10;11;10;B;Odpady z przygotowania mas wsadowych inne ni¿ wymienione w 10 11 09;995
+10;11;11;N;Szk³o odpadowe w postaci ma³ych cz¹stek i proszku szklanego zawieraj¹ce metale ciê¿kie(np.z lamp elektronopromieniowych);996
+10;11;12;B;Szk³o odpadowe inne ni¿ wymienione w 10 11 11;997
+10;11;13;N;Szlamy z polerowania i szlifowania szk³a zawieraj¹ce substancje niebezpieczne;998
+10;11;14;B;Szlamy z polerowania i szlifowania szk³a inne ni¿ wymienione w 10 11 13;999
+10;11;15;N;Odpady sta³e z oczyszczania gazów odlotowych zawieraj¹ce substancje niebezpieczne;1 000
+10;11;16;B;Odpay sta³e z oczyszczania gazów odlotowych inne ni¿ wymienione w 10 11 15;1 001
+10;11;17;N;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych zawieraj¹ce substancje niebezpieczne;1 002
+10;11;18;B;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych inne ni¿ wymienione w 10 11 17;1 003
+10;11;19;N;Odpady sta³e z zak³adowych oczyszczalni œcieków zawieraj¹ce substancje niebezpieczne;1 004
+10;11;20;B;Odpady sta³e z zak³adowych oczyszczalni œcieków inne ni¿ wymienione w 10 11 19;1 005
+10;11;80;B;Szlamy flurokrzemianowe;1 006
+10;11;81;N;Odpady zawieraj¹ce azbest;1 007
+10;11;99;B;Inne niewymienione odpady;1 008
+10;12;01;B;Odpady z przygotowania mas wsadowych do obróbki termicznej;1 009
+10;06;80;B;¯u¿le szybowe i granulowane;1 010
+10;12;03;B;Cz±stki i py³y;1 011
+10;12;05;B;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych;1 012
+10;13;14;B;Odpady betonowe i szlam betonowy;1 013
+10;12;13;B;Szlamy z zak³adowych oczyszczalni Œcieków;1 014
+10;12;06;B;Zu¿yte formy;1 015
+10;12;08;B;Wybrakowane wyroby ceramiczne,ceg³y,kafle i ceramika budowlana(po przeróbce termicznej);1 016
+10;12;10;B;Odpady sta³e z oczyszczania gazów odlotowych inne ni¿ wymienione w 101209;1 017
+10;12;12;B;Odpady ze szkliwienia inne ni¿ wymienione w 101211;1 018
+10;12;11;N;Odpady ze szkliwienia zawieraj¹ce metale ciê¿kie;1 019
+10;12;99;B;Inne niewymienione odpady;1 020
+10;13;01;B;Odpady z przygotowania mas wsadowych do obróbki termicznej;1 021
+10;13;04;B;Odpady z produkcji wapna palonego i hydratyzowanego;1 022
+10;13;06;B;Cz¹stki i py³y(z wy³¹czeniem 101312 i 101313);1 023
+10;13;07;B;Szlamy i osady pofiltracyjne z oczyszczania gazów odlotowych;1 024
+10;13;09;N;Odpady zawieraj±ce azbest z produkcji elementów cementowo-azbestowych;1 025
+10;13;10;B;Odpady z produkcji elementów cementowo-azbestowych inne ni¿ wymienione w 101309;1 026
+77;77;77;B;Olej Bazowy - produkt gotowy;1 027
+11;03;02;N;Inne odpady;1 028
+88;88;88;B;Produkt gotowy - Rozpuszczalnik;1 029
+10;13;81;B;Odpady z produkcji gipsy;1 030
+10;13;80;B;odpady z produkcji cementu;1 031
