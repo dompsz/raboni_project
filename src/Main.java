@@ -100,5 +100,21 @@ public class Main {
                 "%-12s | %-10s | %-6s | %-8.2f | %-5s | %-50s%n",
                 r.nrKarty, r.data, r.kod, r.masa, r.firma, slownikMap.getOrDefault(r.kod, "Brak opisu")
         ));
+
+        // Zapytanie o kod i firmę do sumowania masy
+        System.out.println("\nPodaj KOD, dla którego chcesz obliczyć sumę masy:");
+        String selectedKod = scanner.nextLine();
+        System.out.println("Podaj FIRMĘ:");
+        String selectedFirma = scanner.nextLine();
+
+        // Obliczenie sumy masy
+        double totalMasa = magazynRecords.stream()
+                .filter(r -> r.kod.equals(selectedKod) && r.firma.equals(selectedFirma))
+                .mapToDouble(r -> r.masa)
+                .sum();
+
+        System.out.printf("\nSuma masy dla KOD: %s i FIRMA: %s wynosi: %.2f Mg%n",
+                selectedKod, selectedFirma, totalMasa);
     }
 }
+
