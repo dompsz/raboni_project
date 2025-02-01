@@ -1,8 +1,8 @@
-import java.io.*;
 import java.nio.charset.StandardCharsets;
-import java.util.*;
-import java.nio.charset.Charset;
 import java.util.stream.Collectors;
+import java.nio.charset.Charset;
+import java.util.*;
+import java.io.*;
 
 class CSVReader {
     public static List<String[]> readCSV(String filePath) {
@@ -12,9 +12,9 @@ class CSVReader {
         try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(filePath), charset))) {
             String line;
             while ((line = br.readLine()) != null) {
-                line = cleanLine(line); // Usuwamy błędy
+                line = cleanLine(line); // Odczytując usuwa błędne rekordy
                 String[] values = line.split(";");
-                if (values.length > 1) { // Ignorujemy puste linie
+                if (values.length > 1) { // ignoruje puste linie
                     records.add(values);
                 }
             }
@@ -26,10 +26,9 @@ class CSVReader {
 
     private static String cleanLine(String line) {
         // Zamienia błędne znaki na "?" i usuwa niewidoczne znaki
-        return line.replaceAll("[^\\x20-\\x7EąćęłńóśźżĄĆĘŁŃÓŚŹŻ]", "?").trim();
+        return line.replaceAll("[^\\x20-\\x7E]", "?").trim();
     }
 }
-
 
 class MagazynRecord {
     String nrKarty, data, kod, firma;
@@ -56,12 +55,10 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Wybór pola sortowania
         System.out.println("Wybierz pole do sortowania: 1 - NRKARTY, 2 - KOD, 3 - FIRMA");
         int sortOption = scanner.nextInt();
-        scanner.nextLine(); // Usunięcie znaku nowej linii
+        scanner.nextLine();
 
-        // Wybór liczby rekordów
         System.out.println("Ile rekordów wyświetlić?");
         int recordLimit = scanner.nextInt();
         scanner.nextLine();
@@ -72,7 +69,7 @@ public class Main {
         List<String[]> magazynp = CSVReader.readCSV(pathMagazynp);
         List<String[]> slownik = CSVReader.readCSV(pathSlownik);
 
-        // Mapa NR_ODPADU -> OPIS
+        // mapa NR_ODPADU -> OPIS
         Map<String, String> slownikMap = slownik.stream()
                 .collect(Collectors.toMap(row -> row[5], row -> row[4], (a, b) -> a));
 
@@ -81,7 +78,7 @@ public class Main {
                 .map(MagazynRecord::new)
                 .collect(Collectors.toList());
 
-        // Sortowanie na podstawie wyboru użytkownika
+        // sortowanie
         Comparator<MagazynRecord> comparator;
         switch (sortOption) {
             case 2 -> comparator = Comparator.comparing(r -> r.kod);
@@ -90,24 +87,21 @@ public class Main {
         }
         magazynRecords.sort(comparator);
 
-        // Nagłówek tabeli
         System.out.printf("%-12s | %-10s | %-6s | %-8s | %-5s | %-50s%n",
                 "NRKARTY", "DATA", "KOD", "MASA", "FIRMA", "OPIS");
         System.out.println("-------------------------------------------------------------------------------");
 
-        // Wyświetlanie wybranej liczby rekordów
         magazynRecords.stream().limit(recordLimit).forEach(r -> System.out.printf(
                 "%-12s | %-10s | %-6s | %-8.2f | %-5s | %-50s%n",
                 r.nrKarty, r.data, r.kod, r.masa, r.firma, slownikMap.getOrDefault(r.kod, "Brak opisu")
         ));
 
-        // Zapytanie o kod i firmę do sumowania masy
         System.out.println("\nPodaj KOD, dla którego chcesz obliczyć sumę masy:");
         String selectedKod = scanner.nextLine();
         System.out.println("Podaj FIRMĘ:");
         String selectedFirma = scanner.nextLine();
 
-        // Obliczenie sumy masy
+        // obliczenie sumy masy
         double totalMasa = magazynRecords.stream()
                 .filter(r -> r.kod.equals(selectedKod) && r.firma.equals(selectedFirma))
                 .mapToDouble(r -> r.masa)
@@ -117,4 +111,3 @@ public class Main {
                 selectedKod, selectedFirma, totalMasa);
     }
 }
-
